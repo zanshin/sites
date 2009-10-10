@@ -1,0 +1,9 @@
+<ul id="navlist">
+	<li><a href="index.html" title="home">Home</a></li>
+	<li><a href="membership.html" title="Membership">Membership</a></li>
+	<li><a href="officers.html" title="Officers">Officers</a></li>
+	<li><a href="calendar.html" title="Calendar">Calendar</a></li>
+	<li><a href="events.html" title="Events">Events</a></li>
+	<li><a href="piano_teachers.html" title="Teachers">Teachers</a></li>
+	<li><a href="contact_us.html" title="Contact Us">Contact Us</a></li>
+</ul>

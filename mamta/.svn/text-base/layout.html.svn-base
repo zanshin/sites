@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC
+	"-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Test layout page for MAMTA site</title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<h1>Manhattan Area<br>Music Teachers Association</h1>
+		</div>
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="index.html" title="home">Home</a></li>
+				<li><a href="membership.html" title="Membership">Membership</a></li>
+				<li><a href="officers.html" title="Officers">Officers</a></li>
+				<li><a href="calendar.html" title="Calendar">Calendar</a></li>
+				<li><a href="events.html" title="Events">Events</a></li>
+				<li><a href="piano_teachers.html" title="Teachers">Teachers</a></li>
+				<li><a href="contact_us.html" title="Contact Us">Contact Us</a></li>
+			</ul>
+		</div>
+		<div id="sidebar">
+			<img src="images/100_1279-252x180.jpg" width="252" height="180" alt="Sunset over the Konza (March 2007)">
+			<h5>News!</h5>
+			<p>
+				We are now planning a <a href="konza_opus_8.html">Composition Festival!
+			</p>
+			<p>
+				Contact <a href="piano_teachers.html" target="_blank">Victoria Bieber</a> for more information!
+			</p>
+		</div>
+
+		<div id="content">
+			<h1>Welcome to MAMTA!</h1>
+			<p>
+				MAMTA (Manhattan Area Music Teachers Association) is a non-profit organization of professional music educators from Manhattan, KS and the
+				surrounding area that strives to advance the value of music study and music-making for our diverse community while supporting the
+				professionalism of music teachers and the promotion of a high standard of music teaching among its members.
+			</p>
+			<p>
+				MAMTA was established May 20, 1971. MAMTA is affiliated with Music Teachers National Association (MTNA), and Kansas Music Teachers 
+				Association (KMTA).
+			</p>
+			<h2>KMTA Mission Statement:</h2>
+			<p>
+				<em>
+					Kansas Music Teachers Association is dedicated to helping each student experience the joy of music. Through its educational programs
+					and activities, this organization will empower its members - teachers with high professional standards - to foster in students a 
+					lifelong commitment to music as patrons, performers, teachers, and hobbyists.
+				</em>
+			</p>
+			<p>		
+				KMTA will also work in partnership with communities across Kansas to insure that music is an ongoing, vital part of the cultural 
+				life.
+			</p>
+			<p>
+				KMTA extends its thanks to Capitol Federal Savings for their continuing support of the KMTA Honors Auditions.</em>
+			</p>
+		</div>
+		
+		<div id="footer">
+			<p>All contents &#169; 2007-2008 Manhattan Area Music Teachers Association</p>
+		</div>
+
+	</div>
+</body>
+</html>
