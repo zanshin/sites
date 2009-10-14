@@ -51,7 +51,7 @@
 		<h2>The Studio</h2>
 		<ul>
 		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
-		<li>Adjustable benches: a duet, and two solo, and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
+		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
 		<li>Yamaha P85 Digital Piano, for recording</li>
 		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
