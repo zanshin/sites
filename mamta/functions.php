@@ -7,17 +7,17 @@ if ( function_exists('register_sidebar') )
         'after_title' => '</h2>',
     ));
 
-function musik_head() {
+function mamta_head() {
 	$head = "<style type='text/css'>\n<!--";
 	$output = '';
-	if ( musik_header_image() ) {
-		$url =  musik_header_image_url() ;
+	if ( mamta_header_image() ) {
+		$url =  mamta_header_image_url() ;
 		$output .= "#header { background: url('$url') no-repeat bottom center; }\n";
 	}
-	if ( false !== ( $color = musik_header_color() ) ) {
+	if ( false !== ( $color = mamta_header_color() ) ) {
 		$output .= "#headerimg h1 a, #headerimg h1 a:visited, #headerimg .description { color: $color; }\n";
 	}
-	if ( false !== ( $display = musik_header_display() ) ) {
+	if ( false !== ( $display = mamta_header_display() ) ) {
 		$output .= "#headerimg { display: $display }\n";
 	}
 	$foot = "--></style>\n";
@@ -25,129 +25,129 @@ function musik_head() {
 		echo $head . $output . $foot;
 }
 
-add_action('wp_head', 'musik_head');
+add_action('wp_head', 'mamta_head');
 
-function musik_header_image() {
-	return apply_filters('musik_header_image', get_option('musik_header_image'));
+function mamta_header_image() {
+	return apply_filters('mamta_header_image', get_option('mamta_header_image'));
 }
 
-function musik_upper_color() {
-	if (strpos($url = musik_header_image_url(), 'header-img.php?') !== false) {
+function mamta_upper_color() {
+	if (strpos($url = mamta_header_image_url(), 'header-img.php?') !== false) {
 		parse_str(substr($url, strpos($url, '?') + 1), $q);
 		return $q['upper'];
 	} else
 		return '69aee7';
 }
 
-function musik_lower_color() {
-	if (strpos($url = musik_header_image_url(), 'header-img.php?') !== false) {
+function mamta_lower_color() {
+	if (strpos($url = mamta_header_image_url(), 'header-img.php?') !== false) {
 		parse_str(substr($url, strpos($url, '?') + 1), $q);
 		return $q['lower'];
 	} else
 		return '4180b6';
 }
 
-function musik_header_image_url() {
-	if ( $image = musik_header_image() )
+function mamta_header_image_url() {
+	if ( $image = mamta_header_image() )
 		$url = get_template_directory_uri() . '/images/' . $image;
 	else
-		$url = get_template_directory_uri() . '/images/musikheader.jpg';
+		$url = get_template_directory_uri() . '/images/mamtaheader.jpg';
 
 	return $url;
 }
 
-function musik_header_color() {
-	return apply_filters('musik_header_color', get_option('musik_header_color'));
+function mamta_header_color() {
+	return apply_filters('mamta_header_color', get_option('mamta_header_color'));
 }
 
-function musik_header_color_string() {
-	$color = musik_header_color();
+function mamta_header_color_string() {
+	$color = mamta_header_color();
 	if ( false === $color )
 		return 'white';
 
 	return $color;
 }
 
-function musik_header_display() {
-	return apply_filters('musik_header_display', get_option('musik_header_display'));
+function mamta_header_display() {
+	return apply_filters('mamta_header_display', get_option('mamta_header_display'));
 }
 
-function musik_header_display_string() {
-	$display = musik_header_display();
+function mamta_header_display_string() {
+	$display = mamta_header_display();
 	return $display ? $display : 'inline';
 }
 
-add_action('admin_menu', 'musik_add_theme_page');
+add_action('admin_menu', 'mamta_add_theme_page');
 
-function musik_add_theme_page() {
+function mamta_add_theme_page() {
 	if ( $_GET['page'] == basename(__FILE__) ) {
 		if ( 'save' == $_REQUEST['action'] ) {
-			check_admin_referer('musik-header');
+			check_admin_referer('mamta-header');
 			if ( isset($_REQUEST['njform']) ) {
 				if ( isset($_REQUEST['defaults']) ) {
-					delete_option('musik_header_image');
-					delete_option('musik_header_color');
-					delete_option('musik_header_display');
+					delete_option('mamta_header_image');
+					delete_option('mamta_header_color');
+					delete_option('mamta_header_display');
 				} else {
 					if ( '' == $_REQUEST['njfontcolor'] )
-						delete_option('musik_header_color');
+						delete_option('mamta_header_color');
 					else {
 						$fontcolor = preg_replace('/^.*(#[0-9a-fA-F]{6})?.*$/', '$1', $_REQUEST['njfontcolor']);
-						update_option('musik_header_color', $fontcolor);
+						update_option('mamta_header_color', $fontcolor);
 					}
 					if ( preg_match('/[0-9A-F]{6}|[0-9A-F]{3}/i', $_REQUEST['njuppercolor'], $uc) && preg_match('/[0-9A-F]{6}|[0-9A-F]{3}/i', $_REQUEST['njlowercolor'], $lc) ) {
 						$uc = ( strlen($uc[0]) == 3 ) ? $uc[0]{0}.$uc[0]{0}.$uc[0]{1}.$uc[0]{1}.$uc[0]{2}.$uc[0]{2} : $uc[0];
 						$lc = ( strlen($lc[0]) == 3 ) ? $lc[0]{0}.$lc[0]{0}.$lc[0]{1}.$lc[0]{1}.$lc[0]{2}.$lc[0]{2} : $lc[0];
-						update_option('musik_header_image', "header-img.php?upper=$uc&lower=$lc");
+						update_option('mamta_header_image', "header-img.php?upper=$uc&lower=$lc");
 					}
 
 					if ( isset($_REQUEST['toggledisplay']) ) {
-						if ( false === get_option('musik_header_display') )
-							update_option('musik_header_display', 'none');
+						if ( false === get_option('mamta_header_display') )
+							update_option('mamta_header_display', 'none');
 						else
-							delete_option('musik_header_display');
+							delete_option('mamta_header_display');
 					}
 				}
 			} else {
 
 				if ( isset($_REQUEST['headerimage']) ) {
-					check_admin_referer('musik-header');
+					check_admin_referer('mamta-header');
 					if ( '' == $_REQUEST['headerimage'] )
-						delete_option('musik_header_image');
+						delete_option('mamta_header_image');
 					else {
 						$headerimage = preg_replace('/^.*?(header-img.php\?upper=[0-9a-fA-F]{6}&lower=[0-9a-fA-F]{6})?.*$/', '$1', $_REQUEST['headerimage']);
-						update_option('musik_header_image', $headerimage);
+						update_option('mamta_header_image', $headerimage);
 					}
 				}
 
 				if ( isset($_REQUEST['fontcolor']) ) {
-					check_admin_referer('musik-header');
+					check_admin_referer('mamta-header');
 					if ( '' == $_REQUEST['fontcolor'] )
-						delete_option('musik_header_color');
+						delete_option('mamta_header_color');
 					else {
 						$fontcolor = preg_replace('/^.*?(#[0-9a-fA-F]{6})?.*$/', '$1', $_REQUEST['fontcolor']);
-						update_option('musik_header_color', $fontcolor);
+						update_option('mamta_header_color', $fontcolor);
 					}
 				}
 
 				if ( isset($_REQUEST['fontdisplay']) ) {
-					check_admin_referer('musik-header');
+					check_admin_referer('mamta-header');
 					if ( '' == $_REQUEST['fontdisplay'] || 'inline' == $_REQUEST['fontdisplay'] )
-						delete_option('musik_header_display');
+						delete_option('mamta_header_display');
 					else
-						update_option('musik_header_display', 'none');
+						update_option('mamta_header_display', 'none');
 				}
 			}
 			//print_r($_REQUEST);
 			wp_redirect("themes.php?page=functions.php&saved=true");
 			die;
 		}
-		add_action('admin_head', 'musik_theme_page_head');
+		add_action('admin_head', 'mamta_theme_page_head');
 	}
-	add_theme_page(__('Customize Header'), __('Header Image and Color'), 'edit_themes', basename(__FILE__), 'musik_theme_page');
+	add_theme_page(__('Customize Header'), __('Header Image and Color'), 'edit_themes', basename(__FILE__), 'mamta_theme_page');
 }
 
-function musik_theme_page_head() {
+function mamta_theme_page_head() {
 ?>
 <script type="text/javascript" src="../wp-includes/js/colorpicker.js"></script>
 <script type='text/javascript'>
@@ -235,20 +235,20 @@ function musik_theme_page_head() {
 		document.getElementById('headerimage').value = '';
 		document.getElementById('advuppercolor').value = document.getElementById('uppercolor').value = '#69aee7';
 		document.getElementById('advlowercolor').value = document.getElementById('lowercolor').value = '#4180b6';
-		document.getElementById('header').style.background = 'url("<?php echo get_template_directory_uri(); ?>/images/musikheader.jpg") center no-repeat';
+		document.getElementById('header').style.background = 'url("<?php echo get_template_directory_uri(); ?>/images/mamtaheader.jpg") center no-repeat';
 		document.getElementById('header').style.color = '#FFFFFF';
 		document.getElementById('advfontcolor').value = document.getElementById('fontcolor').value = '';
 		document.getElementById('fontdisplay').value = 'inline';
 		document.getElementById('headerimg').style.display = document.getElementById('fontdisplay').value;
 	}
 	function kRevert() {
-		document.getElementById('headerimage').value = '<?php echo js_escape(musik_header_image()); ?>';
-		document.getElementById('advuppercolor').value = document.getElementById('uppercolor').value = '#<?php echo js_escape(musik_upper_color()); ?>';
-		document.getElementById('advlowercolor').value = document.getElementById('lowercolor').value = '#<?php echo js_escape(musik_lower_color()); ?>';
-		document.getElementById('header').style.background = 'url("<?php echo js_escape(musik_header_image_url()); ?>") center no-repeat';
+		document.getElementById('headerimage').value = '<?php echo js_escape(mamta_header_image()); ?>';
+		document.getElementById('advuppercolor').value = document.getElementById('uppercolor').value = '#<?php echo js_escape(mamta_upper_color()); ?>';
+		document.getElementById('advlowercolor').value = document.getElementById('lowercolor').value = '#<?php echo js_escape(mamta_lower_color()); ?>';
+		document.getElementById('header').style.background = 'url("<?php echo js_escape(mamta_header_image_url()); ?>") center no-repeat';
 		document.getElementById('header').style.color = '';
-		document.getElementById('advfontcolor').value = document.getElementById('fontcolor').value = '<?php echo js_escape(musik_header_color_string()); ?>';
-		document.getElementById('fontdisplay').value = '<?php echo js_escape(musik_header_display_string()); ?>';
+		document.getElementById('advfontcolor').value = document.getElementById('fontcolor').value = '<?php echo js_escape(mamta_header_color_string()); ?>';
+		document.getElementById('fontdisplay').value = '<?php echo js_escape(mamta_header_display_string()); ?>';
 		document.getElementById('headerimg').style.display = document.getElementById('fontdisplay').value;
 	}
 	function kInit() {
@@ -262,18 +262,18 @@ function musik_theme_page_head() {
 	#headwrap {
 		text-align: center;
 	}
-	#musik-header {
+	#mamta-header {
 		font-size: 80%;
 	}
-	#musik-header .hibrowser {
+	#mamta-header .hibrowser {
 		width: 780px;
 		height: 260px;
 		overflow: scroll;
 	}
-	#musik-header #hitarget {
+	#mamta-header #hitarget {
 		display: none;
 	}
-	#musik-header #header h1 {
+	#mamta-header #header h1 {
 		font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
 		font-weight: bold;
 		font-size: 4em;
@@ -282,25 +282,25 @@ function musik_theme_page_head() {
 		margin: 0;
 	}
 
-	#musik-header #header .description {
+	#mamta-header #header .description {
 		font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
 		font-size: 1.2em;
 		text-align: center;
 	}
-	#musik-header #header {
+	#mamta-header #header {
 		text-decoration: none;
-		color: <?php echo musik_header_color_string(); ?>;
+		color: <?php echo mamta_header_color_string(); ?>;
 		padding: 0;
 		margin: 0;
 		height: 200px;
 		text-align: center;
-		background: url('<?php echo musik_header_image_url(); ?>') center no-repeat;
+		background: url('<?php echo mamta_header_image_url(); ?>') center no-repeat;
 	}
-	#musik-header #headerimg {
+	#mamta-header #headerimg {
 		margin: 0;
 		height: 200px;
 		width: 100%;
-		display: <?php echo musik_header_display_string(); ?>;
+		display: <?php echo mamta_header_display_string(); ?>;
 	}
 	#jsForm {
 		display: none;
@@ -353,11 +353,11 @@ function musik_theme_page_head() {
 <?php
 }
 
-function musik_theme_page() {
+function mamta_theme_page() {
 	if ( $_REQUEST['saved'] ) echo '<div id="message" class="updated fade"><p><strong>'.__('Options saved.').'</strong></p></div>';
 ?>
 <div class='wrap'>
-	<div id="musik-header">
+	<div id="mamta-header">
 	<h2><?php _e('Header Image and Color'); ?></h2>
 		<div id="headwrap">
 			<div id="header">
@@ -370,12 +370,12 @@ function musik_theme_page() {
 		<br />
 		<div id="nonJsForm">
 			<form method="post" action="">
-				<?php wp_nonce_field('musik-header'); ?>
+				<?php wp_nonce_field('mamta-header'); ?>
 				<div class="zerosize"><input type="submit" name="defaultsubmit" value="<?php echo attribute_escape(__('Save')); ?>" /></div>
-					<label for="njfontcolor"><?php _e('Font Color:'); ?></label><input type="text" name="njfontcolor" id="njfontcolor" value="<?php echo attribute_escape(musik_header_color()); ?>" /> <?php printf(__('Any CSS color (%s or %s or %s)'), '<code>red</code>', '<code>#FF0000</code>', '<code>rgb(255, 0, 0)</code>'); ?><br />
-					<label for="njuppercolor"><?php _e('Upper Color:'); ?></label><input type="text" name="njuppercolor" id="njuppercolor" value="#<?php echo attribute_escape(musik_upper_color()); ?>" /> <?php printf(__('HEX only (%s or %s)'), '<code>#FF0000</code>', '<code>#F00</code>'); ?><br />
-				<label for="njlowercolor"><?php _e('Lower Color:'); ?></label><input type="text" name="njlowercolor" id="njlowercolor" value="#<?php echo attribute_escape(musik_lower_color()); ?>" /> <?php printf(__('HEX only (%s or %s)'), '<code>#FF0000</code>', '<code>#F00</code>'); ?><br />
-				<input type="hidden" name="hi" id="hi" value="<?php echo attribute_escape(musik_header_image()); ?>" />
+					<label for="njfontcolor"><?php _e('Font Color:'); ?></label><input type="text" name="njfontcolor" id="njfontcolor" value="<?php echo attribute_escape(mamta_header_color()); ?>" /> <?php printf(__('Any CSS color (%s or %s or %s)'), '<code>red</code>', '<code>#FF0000</code>', '<code>rgb(255, 0, 0)</code>'); ?><br />
+					<label for="njuppercolor"><?php _e('Upper Color:'); ?></label><input type="text" name="njuppercolor" id="njuppercolor" value="#<?php echo attribute_escape(mamta_upper_color()); ?>" /> <?php printf(__('HEX only (%s or %s)'), '<code>#FF0000</code>', '<code>#F00</code>'); ?><br />
+				<label for="njlowercolor"><?php _e('Lower Color:'); ?></label><input type="text" name="njlowercolor" id="njlowercolor" value="#<?php echo attribute_escape(mamta_lower_color()); ?>" /> <?php printf(__('HEX only (%s or %s)'), '<code>#FF0000</code>', '<code>#F00</code>'); ?><br />
+				<input type="hidden" name="hi" id="hi" value="<?php echo attribute_escape(mamta_header_image()); ?>" />
 				<input type="submit" name="toggledisplay" id="toggledisplay" value="<?php echo attribute_escape(__('Toggle Text')); ?>" />
 				<input type="submit" name="defaults" value="<?php echo attribute_escape(__('Use Defaults')); ?>" />
 				<input type="submit" class="defbutton" name="submitform" value="&nbsp;&nbsp;<?php _e('Save'); ?>&nbsp;&nbsp;" />
@@ -385,27 +385,27 @@ function musik_theme_page() {
 		</div>
 		<div id="jsForm">
 			<form style="display:inline;" method="post" name="hicolor" id="hicolor" action="<?php echo attribute_escape($_SERVER['REQUEST_URI']); ?>">
-				<?php wp_nonce_field('musik-header'); ?>
+				<?php wp_nonce_field('mamta-header'); ?>
 	<input type="button" onclick="tgt=document.getElementById('fontcolor');colorSelect(tgt,'pick1');return false;" name="pick1" id="pick1" value="<?php echo attribute_escape(__('Font Color')); ?>"></input>
 		<input type="button" onclick="tgt=document.getElementById('uppercolor');colorSelect(tgt,'pick2');return false;" name="pick2" id="pick2" value="<?php echo attribute_escape(__('Upper Color')); ?>"></input>
 		<input type="button" onclick="tgt=document.getElementById('lowercolor');colorSelect(tgt,'pick3');return false;" name="pick3" id="pick3" value="<?php echo attribute_escape(__('Lower Color')); ?>"></input>
 				<input type="button" name="revert" value="<?php echo attribute_escape(__('Revert')); ?>" onclick="kRevert()" />
 				<input type="button" value="<?php echo attribute_escape(__('Advanced')); ?>" onclick="toggleAdvanced()" />
 				<input type="hidden" name="action" value="save" />
-				<input type="hidden" name="fontdisplay" id="fontdisplay" value="<?php echo attribute_escape(musik_header_display()); ?>" />
-				<input type="hidden" name="fontcolor" id="fontcolor" value="<?php echo attribute_escape(musik_header_color()); ?>" />
-				<input type="hidden" name="uppercolor" id="uppercolor" value="<?php echo attribute_escape(musik_upper_color()); ?>" />
-				<input type="hidden" name="lowercolor" id="lowercolor" value="<?php echo attribute_escape(musik_lower_color()); ?>" />
-				<input type="hidden" name="headerimage" id="headerimage" value="<?php echo attribute_escape(musik_header_image()); ?>" />
+				<input type="hidden" name="fontdisplay" id="fontdisplay" value="<?php echo attribute_escape(mamta_header_display()); ?>" />
+				<input type="hidden" name="fontcolor" id="fontcolor" value="<?php echo attribute_escape(mamta_header_color()); ?>" />
+				<input type="hidden" name="uppercolor" id="uppercolor" value="<?php echo attribute_escape(mamta_upper_color()); ?>" />
+				<input type="hidden" name="lowercolor" id="lowercolor" value="<?php echo attribute_escape(mamta_lower_color()); ?>" />
+				<input type="hidden" name="headerimage" id="headerimage" value="<?php echo attribute_escape(mamta_header_image()); ?>" />
 				<p class="submit"><input type="submit" name="submitform" class="defbutton" value="<?php echo attribute_escape(__('Update Header &raquo;')); ?>" onclick="cp.hidePopup('prettyplease')" /></p>
 			</form>
 			<div id="colorPickerDiv" style="z-index: 100;background:#eee;border:1px solid #ccc;position:absolute;visibility:hidden;"> </div>
 			<div id="advanced">
 				<form id="jsAdvanced" style="display:none;" action="">
-					<?php wp_nonce_field('musik-header'); ?>
-					<label for="advfontcolor"><?php _e('Font Color (CSS):'); ?> </label><input type="text" id="advfontcolor" onchange="advUpdate(this.value, 'fontcolor')" value="<?php echo attribute_escape(musik_header_color()); ?>" /><br />
-					<label for="advuppercolor"><?php _e('Upper Color (HEX):');?> </label><input type="text" id="advuppercolor" onchange="advUpdate(this.value, 'uppercolor')" value="#<?php echo attribute_escape(musik_upper_color()); ?>" /><br />
-					<label for="advlowercolor"><?php _e('Lower Color (HEX):'); ?> </label><input type="text" id="advlowercolor" onchange="advUpdate(this.value, 'lowercolor')" value="#<?php echo attribute_escape(musik_lower_color()); ?>" /><br />
+					<?php wp_nonce_field('mamta-header'); ?>
+					<label for="advfontcolor"><?php _e('Font Color (CSS):'); ?> </label><input type="text" id="advfontcolor" onchange="advUpdate(this.value, 'fontcolor')" value="<?php echo attribute_escape(mamta_header_color()); ?>" /><br />
+					<label for="advuppercolor"><?php _e('Upper Color (HEX):');?> </label><input type="text" id="advuppercolor" onchange="advUpdate(this.value, 'uppercolor')" value="#<?php echo attribute_escape(mamta_upper_color()); ?>" /><br />
+					<label for="advlowercolor"><?php _e('Lower Color (HEX):'); ?> </label><input type="text" id="advlowercolor" onchange="advUpdate(this.value, 'lowercolor')" value="#<?php echo attribute_escape(mamta_lower_color()); ?>" /><br />
 					<input type="button" name="default" value="<?php echo attribute_escape(__('Select Default Colors')); ?>" onclick="kDefaults()" /><br />
 					<input type="button" onclick="toggleDisplay();return false;" name="pick" id="pick" value="<?php echo attribute_escape(__('Toggle Text Display')); ?>"></input><br />
 				</form>

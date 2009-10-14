@@ -50,17 +50,17 @@
 		<br />
 		<h2>The Studio</h2>
 		<ul>
-		<li>Kawai GS70 (7'5") <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">Grand Piano</a></li>
-		<li>Adjustable duet bench, adjustable solo bench, and adjustable foot pedal stool to accommodate pianists of all sizes </li>
-		<li>Yamaha P85 Digital Piano, for recording and two piano literature</li>
+		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
+		<li>Adjustable benches: a duet, and two solo, and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
+		<li>Yamaha P85 Digital Piano, for recording</li>
 		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
 		<br />
 		<h2>Words of Inspiration</h2>
 		<p class="quote">
-			"Inspiration is when the heart takes the lead. That is what we are practicing for every day: 
-			to be free when inspiration visits us because we have mastered the craft." ~ 
+			&quot;Inspiration is when the heart takes the lead. That is what we are practicing for every day: 
+			to be free when inspiration visits us because we have mastered the craft.&quot; ~ 
 			quote by William Grant Nabore
 		</p>
 		<br />
@@ -83,7 +83,7 @@
 		<br />
 		<h2>Just a Thought</h2>
 		<p class="quote">
-			The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires - William Arthur Ward
+			&quot;The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires&quot; - William Arthur Ward
 		</p>
 		<p>
 			… and the best teacher does all of the above. She tells, she explains, she demonstrates, she inspires, and she knows which student needs 
@@ -92,26 +92,29 @@
 		<br />
 		<h2>Just Another Thought</h2>
 		<p>
-			During the eighteen months that I was a traveling piano teacher, I discovered an unexpected advantage: I got to see the instrument 
-			on which my students practiced (presumably) daily as well as the setup and environment in which they practiced.  Occasionally, a parent 
-			would apologetically say, "I am sorry, we only have a - " and then proceed to tell me what they "only" had:  a digital keyboard, an old piano 
-			that needs tuning, etc. - followed by, "I don't know if that is good enough for lessons."
+			During the eighteen months that I was a traveling piano teacher, I discovered an unexpected advantage: I got 
+			to see the instrument on which my students practiced (presumably) daily as well as the setup and environment in 
+			which they practiced.  Occasionally, a parent would apologetically say, &quot;I am sorry, we only have a - &quot; 
+			and then proceed to tell me what they &quot;only&quot; had:  a digital keyboard, an old piano 
+			that needs tuning, etc. - followed by, &quot;I don&#39;t know if that is good enough for lessons.&quot;
 			<br /><br />
-			That's a curious thought. It begs the question: how can something that's "not good enough" for teaching be possibly good 
-			enough for practicing?
+			That&#39;s a curious thought. It begs the question: how can something that&#39;s &quot;not good enough&quot; 
+			for teaching be possibly good enough for practicing?
 			<br /><br />
-			Think about it:  when students come to the teacher's studio for their lesson, once a week for 30 to 60 minutes, they get to 
-			play and study and try new things and correct old things on the (hopefully good) instrument their teacher has.  Then they go 
-			home and practice, (presumably) every day for 30 to 60 minutes or longer, on their instrument.  That's a ratio of at least 1 to 
-			6.  If you are afraid your instrument at home is not good enough for lessons - that makes it one "good" instrument to six or 
-			more inferior instruments.  How can you possibly expect to make progress like that? 
+			Think about it:  when students come to the teacher&#39;s studio for their lesson, once a week for 30 to 60 minutes, 
+			they get to play and study and try new things and correct old things on the (hopefully good) instrument their 
+			teacher has.  Then they go home and practice, (presumably) every day for 30 to 60 minutes or longer, on their 
+			instrument.  That&#39;s a ratio of at least 1 to 6.  If you are afraid your instrument at home is not good enough 
+			for lessons - that makes it one &quot;good&quot; instrument to six or more inferior instruments.  How can 
+			you possibly expect to make progress like that? 
 			<br /><br />
-			Imagine, pretend, that you are taking lessons to learn how to color with coloring pencils.  Your teacher has a nice assortment 
-			of nicely sharp pencils.  The lesson goes well, you are motivated to practice at home.  Only your collection of pencils at home has 
-			quite a few colors missing, and some of the rest are broken.  Or, you only have crayons to practice with. 
+			Imagine, pretend, that you are taking lessons to learn how to color with coloring pencils.  Your teacher has 
+			a nice assortment of nicely sharp pencils.  The lesson goes well, you are motivated to practice at home.  Only 
+			your collection of pencils at home has quite a few colors missing, and some of the rest are broken.  Or, you only 
+			have crayons to practice with. 
 			<br /><br />
-			If you want to learn how to color with coloring pencils, you need a good assortment of sharp coloring pencils at home.  If you 
-			want to learn how to play the piano, you need a good piano at home.  Simple, isn't it?
+			If you want to learn how to color with coloring pencils, you need a good assortment of sharp coloring pencils at 
+			home.  If you want to learn how to play the piano, you need a good piano at home.  Simple, isn&#39;t it?
 		</p>
 		<br />
 		<h2>Opinionated Musings</h2>
