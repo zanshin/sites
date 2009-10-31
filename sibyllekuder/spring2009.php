@@ -404,7 +404,7 @@
 			Download a <a href="http://sibyllekuder.com/pdfs/SpringSchedule2009.pdf" target="_blank" title"PDF Calendar">PDF copy of the current calendar here</a>.
 		</p>
 		-->
-		<div class="callout right" id="pic">
+		<div class="callout right">
 			<img src="img/performance.jpg" height="191" width="287" alt="Concerto competition performance"/>
 			<p>Concerto Competition</p>
 		</div>

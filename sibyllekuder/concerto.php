@@ -28,7 +28,7 @@
 	</div>
 	<div id="content">
 		<h1>Manhattan Area Music Teachers Association</h1>
-		<div class="callout right" id="biopic">
+		<div class="callout right">
 			<img src="img/sibylle_at_the_piano.jpg" height="309" width="308" alt="Sibylle Kuder"/>
 			<p>Sibylle Kuder, in her Manhattan studio</p>
 		</div>

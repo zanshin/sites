@@ -29,7 +29,7 @@
 	</div>
 	<div id="content">
 		<h1>Piano Summer 2008</h1>
-		<div class="callout right" id="biopic">
+		<div class="callout right">
 			<img src="img/grandpianopainting.jpg" height="236" width="333" alt="grand piano montage painting"/>
 		</div>
 		<p>

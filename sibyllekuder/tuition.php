@@ -63,7 +63,7 @@
 			and music therapy, benefits all my students.
 		</p>
 		<!--
-		<div class="callout right" id="musicpic">
+		<div class="callout right">
 			<img src="img/Nocturne.jpg" height="182" width="260" alt="Nocturne sheet music"/>
 			<p>Nocturne</p>
 		</div>

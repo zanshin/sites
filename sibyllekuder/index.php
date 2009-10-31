@@ -29,10 +29,6 @@
 	</div>
 	<div id="content">
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
-		<div class="callout right" id="musicpic">
-			<img src="img/inside-piano.jpg" height="192" width="256" alt="inside a grand piano"/>
-			<p>Image &copy; 2007 Mark Nichols</p>
-		</div>
 		<p>
 			Elfenbein Klaviermusik offers thorough and carefully guided instruction in piano
 			literature, technique, ear training (audiation), memorization, and theory.  The
@@ -44,11 +40,15 @@
 			thorough mastery of all studied materials.
 		</p>
 		<p>
-			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994, and recently reopened
-			the Manhattan studio after an 18-month sabbatical.
+			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994, and 
+			has a studio located in the Northview area of Manhattan.
 		</p>
 		<br />
 		<h2>The Studio</h2>
+		<div class="callout centerStudioPic">
+			<img src="img/pianoStudio.jpg" height="375" width="500" alt="The studio."/>
+			<p>The studio at Elfenbein Klaviermusik. &copy; 2009 Sibylle Kuder</p>
+		</div>
 		<ul>
 		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
 		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
@@ -67,8 +67,8 @@
 		<h2>Upcoming Events</h2>
 		<!-- 
 		<p>
-			Group lesson for 1st and 2nd graders coming soon. Also a Spring Recital will be scheduled before
-			the end of the semester. Details here soon! 
+			Piano recital by Martin Muench.  Tuesday, November 3, 7:30 p.m., All Faiths Chapel on the K-State
+			Campus. This concert is free of charge.
 		</p>
 		-->
 		<h3>Fall 2009</h3>

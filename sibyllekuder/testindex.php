@@ -28,7 +28,7 @@
 	</div>
 	<div id="content">
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
-		<div class="callout right" id="musicpic">
+		<div class="callout right">
 			<img src="img/inside-piano.jpg" height="192" width="256" alt="inside a grand piano"/>
 			<p>Image &copy; 2007 Mark Nichols</p>
 		</div>

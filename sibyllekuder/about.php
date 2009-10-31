@@ -28,9 +28,9 @@
 	</div>
 	<div id="content">
 		<h1>About the Teacher</h1>
-		<div class="callout right" id="biopic">
-			<img src="img/sibylle_at_the_piano.jpg" height="309" width="308" alt="Sibylle Kuder"/>
-			<p>Sibylle Kuder, in her Manhattan studio</p>
+		<div class="callout right">
+			<img src="img/atThePianoManhattan.jpg" height="266" width="400" alt="Sibylle Kuder"/>
+			<p>Sibylle Kuder, in her Manhattan studio. &copy; 2009 Mark Nichols</p>
 		</div>
 		<p>
 			My name is Sibylle Kuder. I was born and raised in Germany. From age 12 until about 19,
@@ -83,8 +83,14 @@
 			had been with me since they first started lessons, some for over nine years.
 		</p>
 		<p>
-			After an 18-months sabbatical, I have now re-opened my Manhattan studio.
+			Between May 2007 and December 2008 I lived and taught in Overland Park and Olathe Kansas. During 
+			that time I travelled to students&#8217; homes in the Kansas City area as well as in Manhattan. In
+			January 2009, I returned to Manhattan full-time, and re-opened my studio here.
 		</p>
+		<div class="callout right">
+			<img src="img/viewWhereISit.jpg" height="200" width="267" alt="The view from where I sit."/>
+			<p>The view from where I sit. &copy; 2009 Sibylle Kuder</p>
+		</div>
 		<p>
 			I have consistently been able to provide dedicated students with the preparation
 			necessary to compete successfully at local and state competitions and auditions,

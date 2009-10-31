@@ -54,7 +54,7 @@
 		-->
 		<br />
 		<!--
-		<div class="callout right" id="pic">
+		<div class="callout right">
 			<img src="img/performance.jpg" height="191" width="287" alt="Concerto competition performance"/>
 			<p>Concerto Competition</p>
 		</div>
