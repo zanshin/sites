@@ -29,6 +29,10 @@
 	</div>
 	<div id="content">
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
+		<div class="callout centerStudioPic">
+			<img src="img/pianoStudio.jpg" height="375" width="500" alt="The studio."/>
+			<p>The studio at Elfenbein Klaviermusik. &copy; 2009 Sibylle Kuder</p>
+		</div>
 		<p>
 			Elfenbein Klaviermusik offers thorough and carefully guided instruction in piano
 			literature, technique, ear training (audiation), memorization, and theory.  The
@@ -45,10 +49,6 @@
 		</p>
 		<br />
 		<h2>The Studio</h2>
-		<div class="callout centerStudioPic">
-			<img src="img/pianoStudio.jpg" height="375" width="500" alt="The studio."/>
-			<p>The studio at Elfenbein Klaviermusik. &copy; 2009 Sibylle Kuder</p>
-		</div>
 		<ul>
 		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
 		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
