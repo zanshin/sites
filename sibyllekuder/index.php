@@ -59,7 +59,7 @@
 		<br />
 		<h2>How to Get Started</h2>
 		<p>
-			While the monthly <a href="http://sibyllekuder.com/tuition.php" title="Tuition">tuition</a> is based on the number 
+			While the monthly <a href="http://sibyllekuder.com/tuition.php" title="Tuition" target="_blank">tuition</a> is based on the number 
 			of lessons in a semester, new students can start at any time. Call or email to set up a first meeting where we can 
 			discuss your musical goals, discover a little bit about each other, and decide if this is a good fit for
 			every one. Parents, this initial session gives you and your child a chance to see how they react to me and my
@@ -76,7 +76,7 @@
 		<p>
 			It is possible to purchase a good digital piano that has weighted keys; however, money invested in a gently used
 			upright would be better spent. I am happy to accompany any student to area piano stores to help with the selection
-			of an instrument. The <a href="http://www.bluebookofpianos.com/types.htm" title="Blue Book of Pianos">Blue Book 
+			of an instrument. The <a href="http://www.bluebookofpianos.com/types.htm" title="Blue Book of Pianos"target="_blank">Blue Book 
 			of Pianos</a> website is an excellent online soure of information about the different styles of pianos for 
 			those wanting to do some research.
 		</p>
@@ -88,13 +88,14 @@
 			quote by William Grant Nabore
 		</p>
 		<br />
+		<!-- temporarily in a drawer
 		<h2>Upcoming Events</h2>
-		<!-- 
+	
 		<p>
 			Piano recital by Martin Muench.  Tuesday, November 3, 7:30 p.m., All Faiths Chapel on the K-State
 			Campus. This concert is free of charge.
 		</p>
-		-->
+		
 		<h3>Fall 2009</h3>
 		<p>
 		August 18 - December 19
@@ -105,6 +106,7 @@
 		August tuition is due August 1st.
 		</p>
 		<br />
+		-->
 		<h2>Just a Thought</h2>
 		<p class="quote">
 			&quot;The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires&quot; - William Arthur Ward
