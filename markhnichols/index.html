@@ -1,246 +1,347 @@
-<!DOCTYPE html PUBLIC
-	"-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
 	<title>Mark H. Nichols, Enterprise Architect</title>
 	<meta name="author" content="Mark H. Nichols" />
 	<meta name="description" content="Professional Resume, work history, employment, technologies, skills, abilities" />
 	<meta name="keywords" content="resume, technology, OO, Java, J2EE, HTML, CSS, DB2, SQL, application design, programming, enterprise architect" />
 	<meta name="author" content="mark nichols" />
-	<meta name="copyright" content="Copyright 1996-2008 Mark Nichols" />
-	<meta http-equiv="imagetoolbar" content="no" />
+	<meta name="copyright" content="Copyright 1996-2009 Mark Nichols" />
 	<meta name="revisit-after" content="3 days" />
 	<meta name="robots" content="all" />
 
-<link
-		rel="stylesheet"
-		type="text/css"
-		media="all"
-		href="screen.css"
-	/>
+	<link rel="stylesheet" href="screen.css" />
 	
-<!--
-Hey! No cheating now... you're supposed to view my resume via the browser not the view source
-menu item.  But since you are already here you may as well dig around and see how cunningly
-well I crafted this page. All the tags are the same case, they all end properly. White space is
-used to improve readability. Where there was a simple way or a complex way to accomplish the
-desired effect, the simple way was chosen. 
+	<!-- script to seed DOM with HTML 5 elements so IE will work -->
+	<!--[if IE]>
+	<script>
+		var e = ("abbr,article,aside,audio,canvas,datalist,details,figure,footer,header," +
+			"hgroup,mark,menu,meter,nav,output,progress,section,time,video").split(',');
+		for (var i = 0; i < e.length; i++) {
+			document.createElement(e[i]);
+		}
+	</script>
+	<![endif]-->
+	
+	<!--
+	Converted to HTML 5 with the help of http://diveintohtml5.org/semantics/html.
 
-This document was hand-crafted using TextMate on Mac OS X 10.4.11.
+	This document was hand-crafted using TextMate on Mac OS X 10.6.1.
 
-The javascript used to mask my e-mail address from bots was created using the Enkoder form 
-on http://www.hivelogic.com. 
+	The javascript used to mask my e-mail address from bots was created using the Enkoder form 
+	on http://www.hivelogic.com. 
 
-mark 2.26.2008
+	mark 11.3.2009
 
--->	
+	-->	
 	
 </head>
 <body>
 <div id="container">
-<div id="page">
-	<div id="header">
-		<h1 class="name">Mark H. Nichols</h1>
-		<h2 class="address">633 Frey Drive, Manhattan KS 66502</h2>
-		<h2 class="address">913.620.3543</h2>
-		<h2 class="address">
-			<!-- info at mhn.com -->
-			<script type="text/javascript">
-			/* <![CDATA[ */
-			function hivelogic_enkoder(){var kode=
-			"kode=\"oked\\\"=kode\\\"\\\\)=';)'-:t1nhlgeeo.(dAkatcreho.?dtknhlgeeo.<d(k"+
-			"xie+o=}dikt)r(hA.adcke)o++(1Aiatcreho.=dxk)+={i2)+-;t1nhlgeeo.(dik0<i;r=f("+
-			"'o=;;'\\\\x\\\\\\\"x\\\\e=od}kc)e(odrChamCro.fngriSt+=;x28=1c+0)c<f(;i-3i)"+
-			"t(eAodrCha.cdekoc=){++;ithnglee.od<k;i=0(ior;f''x=\\\\;{\\\\\\\\\\\\\\\"\\"+
-			"\\\\\\hr\\\\0@0g,n\\\\0\\\\\\\\\\\\\\\\\\\\\\\\f\\\\h+rguFkdpFur1iqjulVw.@"+
-			">{5;@4f.3,f?i+>l06l,w+hDrguFkd1fghnrf@,~..>lwkqjohh1rg?n>l@3+lru>i**{@%>/A"+
-			"D(5gsBiuy4urintoqngx&sgzu&tlDob(us4irynuointxqsgz&&gluotb(kCzrzo(&sbiuy4ur"+
-			"intoqngxFsluotu@rzgo(sCbklnxg&(Bk.oz}xz4kt{sui%jh@rg\\\\n=\\\\\\\\\\\\\\\""+
-			"\\\\\\\\dk\\\\\\\\eo\\\\\\\\=d\\\"ke;o\\\"\\\\kode=kode.split('').reverse("+
-			").join('');\\\"=x''f;roi(0=i;(<okedl.netg-h)1i;=+)2x{=+okedc.ahAr(t+i)1k+d"+
-			"o.ehcratAi(})okedx=(+<iokedl.netg?hokedc.ahAr(tokedl.netg-h)1':)';\";x='';"+
-			"for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode=x+"+
-			"(i<kode.length?kode.charAt(kode.length-1):'');"
-			;var i,c,x;while(eval(kode));}hivelogic_enkoder();
-			/* ]]> */
-			</script>
-		</h2>
-	</div>
+	<div id="page">
+		<header>
+			<hgroup>
+				<h1 class="name">Mark H. Nichols</h1>
+				<h2 class="address">633 Frey Drive, Manhattan KS 66502</h2>
+				<h2 class="address">913.620.3543</h2>
+				<h2 class="address">
+					<!-- info at mhn.com -->
+					<script type="text/javascript">
+					/* <![CDATA[ */
+					function hivelogic_enkoder(){var kode=
+					"kode=\"oked\\\"=kode\\\"\\\\)=';)'-:t1nhlgeeo.(dAkatcreho.?dtknhlgeeo.<d(k"+
+					"xie+o=}dikt)r(hA.adcke)o++(1Aiatcreho.=dxk)+={i2)+-;t1nhlgeeo.(dik0<i;r=f("+
+					"'o=;;'\\\\x\\\\\\\"x\\\\e=od}kc)e(odrChamCro.fngriSt+=;x28=1c+0)c<f(;i-3i)"+
+					"t(eAodrCha.cdekoc=){++;ithnglee.od<k;i=0(ior;f''x=\\\\;{\\\\\\\\\\\\\\\"\\"+
+					"\\\\\\hr\\\\0@0g,n\\\\0\\\\\\\\\\\\\\\\\\\\\\\\f\\\\h+rguFkdpFur1iqjulVw.@"+
+					">{5;@4f.3,f?i+>l06l,w+hDrguFkd1fghnrf@,~..>lwkqjohh1rg?n>l@3+lru>i**{@%>/A"+
+					"D(5gsBiuy4urintoqngx&sgzu&tlDob(us4irynuointxqsgz&&gluotb(kCzrzo(&sbiuy4ur"+
+					"intoqngxFsluotu@rzgo(sCbklnxg&(Bk.oz}xz4kt{sui%jh@rg\\\\n=\\\\\\\\\\\\\\\""+
+					"\\\\\\\\dk\\\\\\\\eo\\\\\\\\=d\\\"ke;o\\\"\\\\kode=kode.split('').reverse("+
+					").join('');\\\"=x''f;roi(0=i;(<okedl.netg-h)1i;=+)2x{=+okedc.ahAr(t+i)1k+d"+
+					"o.ehcratAi(})okedx=(+<iokedl.netg?hokedc.ahAr(tokedl.netg-h)1':)';\";x='';"+
+					"for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)}kode=x+"+
+					"(i<kode.length?kode.charAt(kode.length-1):'');"
+					;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+					/* ]]> */
+					</script>
+				</h2>
+			</hgroup>
+		</header>
 
-	<div id="content">
-		<h1>Summary of Qualifications</h1>
-		<p>
-			Twenty-five years experience as a enterprise architect / software engineer / project manager with proven ability to produce extraordinary
-			results in private sector, state and federal government, utility, and manufacturing domains. Innovative problem solver with critical thinking 
-			and strategic planning skills combined with outstanding communications and motivational abilities. Proven leadership ability in all aspects of 
-			object oriented application development including requirements gathering, analysis and design activities, application construction, project 
-			management, and progress reporting. Skilled at building relationships required for success within an organization, whether they are technical, 
-			non-technical, managerial, supervisory, among peers, or with current or potential clients. Comfortable in multi-project, deadline-driven, 
-			results oriented environments.
-		</p>
-		<h1>Information Technology Experience</h1>
-		<h2>Office of Mediated Education, Kansas State University</h2>
-		<h3>Software Architect</h3>
-		<h4>Manhattan, MS <br /> December 2008 - Present</h4>
-		<p>
-			As the Software Architect for OME, I will be responsible for guiding the technical design, implementation, documentation, and deployment
-			of software applications that support online, distance, and other mediated education venues.  In an advisory capacity I will contribute
-			to all application development within the office.  Finally I will serve in a consulting role in the development of software at Kansas
-			State University.
-		</p>
-		<h2>Argus Health Systems, Inc.</h2>
-		<h3>Software Development Architect</h3>
-		<h4>Kansas City, MO <br /> January 2007 - December 2008</h4>
-		<p>
-			As a member of the Architecture team I was involved in defining several processes for componetization of the pharmaceutical benefit manager
-			application. I created a practitioner's guide for the component architecture, outlining the phases of development, the processes used, and 
-			the artifacts generated and consumed at each step.  I assumed leadership of a weekly process improvement meeting for the company's explanation 
-			of benefits product.  As a result of this groups findings I created a technical specification for a new document reconciliation tool, and
-			designed a data replication monitor application.  As a member of the methodology team I help to create a new process for application 
-			development, and I was tasked with being the architect for the first application created using the new process.
-		</p>
-		<h2>Compass IT Consulting, LLC</h2>
-		<h3>Application Architect</h3>
-		<h4>Lenexa, KS <br /> June 2004 – January 2007</h4>
-		<p>
-			As an Application Architect for major application and development practices modernization project using 
-			Service Oriented Architecture (SOA) and Rational Unified Process (RUP), I created the Environment, 
-			Change and Configuration Management plans, participated in Analysis, and Design disciplines, and 
-			mentored permanent staff in the use of RUP and architecture.  I served as the Team Leader for 
-			development of Configuration Management Plan, and as Team Leader for a major overhaul of the 
-			development environment infrastructure. I also coordinated development of a baseline Requirements 
-			Management Plan, the projects Development Case, and Supplementary Specifications artifacts following 
-			RUP guidelines. I was a principle member of the architecture team completing analysis and design for 
-			first major release of the modernized application. I produced team project plans, use case diagrams, use 
-			case specifications, activity diagrams, sequence diagrams, and architectural decisions. I was a member of 
-			the persistence layer design team, producing detailed persistent service, persistent contract, and 
-			persistent object sequence diagrams. I also developed a test harness to assert Hibernate mapping files and 
-			HSQL from our design activities.  Later I was a key team member of the application layer group, charged 
-			with producing sequence diagrams of Struts pre- and post-actions for 100-screen interview application 
-			using MVC framework. I was a key participant in major refactoring of the overall architectural approach, 
-			moving the agency from a layered architecture to service oriented architecture (SOA). 
-		</p>
-		<h2>Partition Software</h2>
-		<h3>Senior Consultant</h3>
-		<h4>Pawnee, IL <br /> October 2000 – June 2004</h4> 
-		<p>
-			In this engagement I had responsibilities spanning project leadership, staff mentoring, object oriented 
-			application architecture using UML, and implementation of Rational Unified Process (RUP).  I lead the 
-			effort to transition development environment from a proprietary Object Oriented platform (Fort&#233) to 
-			J2EE.  During this project I conducted evaluation of available thin-client frameworks and made the 
-			recommendation that resulted in Jakarta Struts framework being selected as the standard for web 
-			application development, which resulted in cost and efficiency benefits at client agency.  I developed a 
-			Java/HTML prototype using Struts, and developed the necessary interface between the prototype and our 
-			legacy Fort&#233 TOOL (Transactional Object Oriented Language) application via MQ Series.  I was assigned 
-			to be Project Leader for enterprise-wide object oriented persistence project which had been faltering, and 
-			was successful in bringing it back on target, ultimately completing it within its original promised time 
-			schedule.  Concurrently I was Project Leader for rules engine based eligibility determination project, using 
-			OO architecture and RUP, which was completed 5 months ahead of schedule.  I developed a 60-window 
-			“wizard style” user interface for viewing determination results in 8 months utilizing the façade, factory, 
-			and chain of responsibility design patterns. 
-		</p>
-	    <h2>HOME Account, Inc.</h2>
-	    <h3>Software Engineer</h3>
-	    <h4>Charleston, SC <br /> July 1999 – September 2000 </h4>
-	    <p>
-			My responsibilities included, authoring software requirements specification documents for distributed 
-			applications following in-house architecture guidelines, that were used to establish service level 
-			agreements with our customers, and as a baseline for quality control testing.  I designed several major 
-			internal components of client care system, and provided post-design support for code construction and 
-			user acceptance testing.  I was responsible for an initiative to move our company towards XML based 
-			products, in keeping with financial industry direction.  I was a key participant in the design and 
-			development of our employee intranet. 
-		</p>
-	    <h2>Analysts International</h2>
-	    <h3>Technical Consultant</h3>
-	    <h4>Portland, OR <br /> May 1998 – June 1999 </h4>
-	    <p>
-			I designed and developed a reporting framework in Fort&#233, for a manufacturing client that spanned gap 
-			between the process tracking OODBMS and the reporting RDBMS.  My responsibilities on this project 
-			included requirements analysis, application design, code construction and testing. Additionally, I 
-			designed and implemented an event-driven data extraction application to allow real-time migration of 
-			data from OODBMS to RDBMS. Throughout my engagement I mentored staff on use of design patterns 
-			and coding best practices, in conjunction with creation of a coding standards document. 
-		</p>
-	    <h2>MSF&amp;W</h2>
-	    <h3>Senior Consultant</h3>
-	    <h4>Springfield, IL <br /> January 1997 – April 1998</h4>
-	    <p> 
-			I served as Technical Lead for a project re-deploying a C-language workflow application as a Fort&#233 
-			application.  I assisted in the rapid development of multi-agency intake system as part of the creation of 
-			new State agency from seven smaller, related agencies. As a part of that responsibility, I designed and 
-			constructed 50 nested windows in 6-week timeframe.  I was instrumental in performing performance 
-			tuning of database queries resulting in 10-fold reduction in overall user response time. I assisted my 
-			agency counterpart in producing a feasibility study / ROI analysis for conversion of OS/2 based C - 
-			language application to Fort&#233. 
-		</p>
-		<h2>Central Illinois Public Service Company</h2>
-		<h3>Applications Analyst</h3>
-		<h4>Springfield, IL <br /> June 1988 – December 1996</h4>
-		<p> 
-			I was the principal member of numerous successful projects including a pilot project that introduced 
-			Information Engineering methodology and new development practices, including DB2, OS/2, ADW, and 
-			MicroFocus COBOL for new application development.  I was a key team member in the reorganization of 
-			two major business functions using Information Engineering tools.  As a Team Lean, I was responsible for 
-			delivering multiple time-critical development efforts to meet mandated changes imposed by the State 
-			regulatory commission.  As administrator and coordinator of client-server application development, I 
-			oversaw the introduction of Microsoft and Sybase SQL servers and the PowerBuilder development 
-			platform. In my initial assignment for the company, I was lead developer for maintenance and 
-			enhancements to a large COBOL based customer-billing application. 
-		</p>
-	    <h2>Illinois Department of Agriculture</h2>
-	    <h3>Programmer Analyst</h3>
-	    <h4>Springfield, IL <br /> October 1983 – June 1988</h4>
-	    <p> 
-			I designed and developed a financial reporting system, using Nomad 4GL, which was used to meet legal 
-			requirements for the regulation and insurance of grain dealers and elevators.  Working under a 48-hour 
-			deadline, I developed a grain donation tracking system used during Ethiopian famine relief efforts, which 
-			ultimately tracked over $50,000 of donations from Illinois farmers.  As a part of a two-man team, I 
-			helped to develop a Veterinarian Laboratory Invoicing system used in state animal laboratories. 
-			Throughout my tenure at IDOA, I served as a system administrator for our IBM 8100 computer system 
-			with responsibilities for installing, maintaining, and upgrading system software. 
-		</p>
-		<h1>Education</h1> 
-		<h2>Illinois State University</h2>
-		<h3>Bachelor of Science, Applied Computer Science</h3>
-		<h4>Normal, IL <br /> August 1979 – August 1983</h4> 
-	    <h1>Technical Highlights</h1>  
-		<h2>Development Languages / Web Technologies</h2>
-		<p>
-			Java, Hibernate, Spring Framework, Spring MVC, J2EE, Jakarta Struts, XHTML, CSS, PHP, JavaScript, 
-			Tag Libraries, JSP 
-		</p>
-		<h2>Development Environments</h2>
-		<p>
-			Rational Software Architect (RSA) 6.0 &amp; 7.0, WebSphere Studio Application Developer (WSAD) 4.x, 5.x, 
-			Eclipse 2.x, 3.x, MyEclipse 3.x – 5.x  
-		</p>
-		<h2>Project / Change Management / Modeling Tools </h2>
-		<p>
-			Microsoft Project, Rational RequisitePro, Subversion, Rational ClearCase, CVS, Rational Rose, Rational 
-			XDE, Rational ClearQuest, UML, Visio, Enterprise Architect 6.x 
-		</p>
-		<h2>Databases</h2>
-		<p>
-			IBM DB2 and DB2/2, MySQL 4.x, 5.x 
-		</p>
-		<h2>Methodologies / Architectures</h2>
-		<p>
-			Rational Unified Process (RUP), Test Driven Development (TDD), Information Engineering (IE) 
-		</p>
-		<h2>Operating Systems</h2>
-		<p>
-			Windows XP, 2000, NT, 9x, 3.x, Mac OS X 10.x, OS/2, AIX, Digital, and SunOS UNIX, MVS/XA, VM 
-		</p>
-		<h1>References</h1>
-		<p> 
-			References will be provided upon establishment of mutual interest.
-		<p/>
-	</div>
-</div>
-</div>
+		<div id="content">
+			<article>
+				<header><h1>Summary of Qualifications</h1></header>
+				<p>
+					Twenty-five years experience as a enterprise architect / software engineer / project manager with 
+					proven ability to produce extraordinary results in private sector, state and federal government, 
+					utility, and manufacturing domains. Innovative problem solver with critical thinking and strategic 
+					planning skills combined with outstanding communications and motivational abilities. Proven 
+					leadership ability in all aspects of object oriented application development including 
+					requirements gathering, analysis and design activities, application construction, project 
+					management, and progress reporting. 
+					Skilled at building relationships required for success within an organization, whether they are
+					technical, non-technical, managerial, supervisory, among peers, or with current or potential clients. 
+					Comfortable in multi-project, deadline-driven, results oriented environments.
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<header><h1>Information Technology Experience</h1></header>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Office of Mediated Education, Kansas State University</h2>
+						<h3>Software Architect</h3>
+						<h4>Manhattan, MS <br /> December 2008 - Present</h4>
+					</hgroup>
+				</header>
+				<p>
+					As the Software Architect for OME, I will be responsible for guiding the technical design, 
+					implementation, documentation, and deployment of software applications that support online, 
+					distance, and other mediated education venues.  In an advisory capacity I will contribute 
+					to all application development within the office.  Finally I will serve in a consulting role 
+					in the development of software at Kansas State University.
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Argus Health Systems, Inc.</h2>
+						<h3>Software Development Architect</h3>
+						<h4>Kansas City, MO <br /> January 2007 - December 2008</h4>
+					</hgroup>
+				</header>
+				<p>
+					As a member of the Architecture team I was involved in defining several processes for 
+					componetization of the pharmaceutical benefit manager application. I created a practitioner's 
+					guide for the component architecture, outlining the phases of development, the processes used, 
+					and the artifacts generated and consumed at each step.  I assumed leadership of a weekly 
+					process improvement meeting for the company's explanation of benefits product.  As a result of 
+					this groups findings I created a technical specification for a new document reconciliation tool, 
+					and designed a data replication monitor application.  As a member of the methodology team I help 
+					to create a new process for application development, and I was tasked with being the architect for 
+					the first application created using the new process.
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Compass IT Consulting, LLC</h2>
+						<h3>Application Architect</h3>
+						<h4>Lenexa, KS <br /> June 2004 – January 2007</h4>
+					</hgroup>
+				</header>
+				<p>
+					As an Application Architect for major application and development practices modernization project using 
+					Service Oriented Architecture (SOA) and Rational Unified Process (RUP), I created the Environment, 
+					Change and Configuration Management plans, participated in Analysis, and Design disciplines, and 
+					mentored permanent staff in the use of RUP and architecture.  I served as the Team Leader for 
+					development of Configuration Management Plan, and as Team Leader for a major overhaul of the 
+					development environment infrastructure. I also coordinated development of a baseline Requirements 
+					Management Plan, the projects Development Case, and Supplementary Specifications artifacts following 
+					RUP guidelines. I was a principle member of the architecture team completing analysis and design for 
+					first major release of the modernized application. I produced team project plans, use case diagrams, use 
+					case specifications, activity diagrams, sequence diagrams, and architectural decisions. I was a member of 
+					the persistence layer design team, producing detailed persistent service, persistent contract, and 
+					persistent object sequence diagrams. I also developed a test harness to assert Hibernate mapping files and 
+					HSQL from our design activities.  Later I was a key team member of the application layer group, charged 
+					with producing sequence diagrams of Struts pre- and post-actions for 100-screen interview application 
+					using MVC framework. I was a key participant in major refactoring of the overall architectural approach, 
+					moving the agency from a layered architecture to service oriented architecture (SOA). 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Partition Software</h2>
+						<h3>Senior Consultant</h3>
+						<h4>Pawnee, IL <br /> October 2000 – June 2004</h4> 
+					</hgroup>
+				</header>
+				<p>
+					In this engagement I had responsibilities spanning project leadership, staff mentoring, object oriented 
+					application architecture using UML, and implementation of Rational Unified Process (RUP).  I lead the 
+					effort to transition development environment from a proprietary Object Oriented platform (Fort&#233;) to 
+					J2EE.  During this project I conducted evaluation of available thin-client frameworks and made the 
+					recommendation that resulted in Jakarta Struts framework being selected as the standard for web 
+					application development, which resulted in cost and efficiency benefits at client agency.  I developed a 
+					Java/HTML prototype using Struts, and developed the necessary interface between the prototype and our 
+					legacy Fort&#233; TOOL (Transactional Object Oriented Language) application via MQ Series.  I was assigned 
+					to be Project Leader for enterprise-wide object oriented persistence project which had been faltering, and 
+					was successful in bringing it back on target, ultimately completing it within its original promised time 
+					schedule.  Concurrently I was Project Leader for rules engine based eligibility determination 
+					project, using OO architecture and RUP, which was completed 5 months ahead of schedule.  I developed 
+					a 60-window “wizard style” user interface for viewing determination results in 8 months utilizing 
+					the facade, factory, and chain of responsibility design patterns. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+		    			<h2>HOME Account, Inc.</h2>
+					    <h3>Software Engineer</h3>
+					    <h4>Charleston, SC <br /> July 1999 – September 2000 </h4>
+					</hgroup>
+				</header>
+		    	<p>
+					My responsibilities included, authoring software requirements specification documents for distributed 
+					applications following in-house architecture guidelines, that were used to establish service level 
+					agreements with our customers, and as a baseline for quality control testing.  I designed several major 
+					internal components of client care system, and provided post-design support for code construction and 
+					user acceptance testing.  I was responsible for an initiative to move our company towards XML based 
+					products, in keeping with financial industry direction.  I was a key participant in the design and 
+					development of our employee intranet. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+		    			<h2>Analysts International</h2>
+					    <h3>Technical Consultant</h3>
+					    <h4>Portland, OR <br /> May 1998 – June 1999 </h4>
+					</hgroup>
+				</header>
+		    	<p>
+					I designed and developed a reporting framework in Fort&#233;, for a manufacturing client that spanned gap 
+					between the process tracking OODBMS and the reporting RDBMS.  My responsibilities on this project 
+					included requirements analysis, application design, code construction and testing. Additionally, I 
+					designed and implemented an event-driven data extraction application to allow real-time migration of 
+					data from OODBMS to RDBMS. Throughout my engagement I mentored staff on use of design patterns 
+					and coding best practices, in conjunction with creation of a coding standards document. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+		    			<h2>MSF&amp;W</h2>
+					    <h3>Senior Consultant</h3>
+					    <h4>Springfield, IL <br /> January 1997 – April 1998</h4>
+					</hgroup>
+				</header>
+		    	<p> 
+					I served as Technical Lead for a project re-deploying a C-language workflow application as a Fort&#233; 
+					application.  I assisted in the rapid development of multi-agency intake system as part of the creation of 
+					new State agency from seven smaller, related agencies. As a part of that responsibility, I designed and 
+					constructed 50 nested windows in 6-week timeframe.  I was instrumental in performing performance 
+					tuning of database queries resulting in 10-fold reduction in overall user response time. I assisted my 
+					agency counterpart in producing a feasibility study / ROI analysis for conversion of OS/2 based C - 
+					language application to Fort&#233;. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Central Illinois Public Service Company</h2>
+						<h3>Applications Analyst</h3>
+						<h4>Springfield, IL <br /> June 1988 – December 1996</h4>
+					</hgroup>
+				</header>
+				<p> 
+					I was the principal member of numerous successful projects including a pilot project that introduced 
+					Information Engineering methodology and new development practices, including DB2, OS/2, ADW, and 
+					MicroFocus COBOL for new application development.  I was a key team member in the reorganization of 
+					two major business functions using Information Engineering tools.  As a Team Lean, I was responsible for 
+					delivering multiple time-critical development efforts to meet mandated changes imposed by the State 
+					regulatory commission.  As administrator and coordinator of client-server application development, I 
+					oversaw the introduction of Microsoft and Sybase SQL servers and the PowerBuilder development 
+					platform. In my initial assignment for the company, I was lead developer for maintenance and 
+					enhancements to a large COBOL based customer-billing application. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header>
+					<hgroup>
+		    			<h2>Illinois Department of Agriculture</h2>
+					    <h3>Programmer Analyst</h3>
+					    <h4>Springfield, IL <br /> October 1983 – June 1988</h4>
+					</hgroup>
+				</header>
+		    	<p> 
+					I designed and developed a financial reporting system, using Nomad 4GL, which was used to meet legal 
+					requirements for the regulation and insurance of grain dealers and elevators.  Working under a 48-hour 
+					deadline, I developed a grain donation tracking system used during Ethiopian famine relief efforts, which 
+					ultimately tracked over $50,000 of donations from Illinois farmers.  As a part of a two-man team, I 
+					helped to develop a Veterinarian Laboratory Invoicing system used in state animal laboratories. 
+					Throughout my tenure at IDOA, I served as a system administrator for our IBM 8100 computer system 
+					with responsibilities for installing, maintaining, and upgrading system software. 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<header><h1>Education</h1></header>
+			<article>
+				<header>
+					<hgroup>
+						<h2>Illinois State University</h2>
+						<h3>Bachelor of Science, Applied Computer Science</h3>
+						<h4>Normal, IL <br /> August 1979 – August 1983</h4>
+					</hgroup>
+				</header>
+				<time datetime="2009-11-03"></time>
+			</article> 
+			<header><h1>Technical Highlights</h1></header>
+			<article>
+				<header><h2>Development Languages / Web Technologies</h2></header>
+				<p>
+					Java, Hibernate, Spring Framework, Spring MVC, J2EE, Jakarta Struts, XHTML, CSS, PHP, JavaScript, 
+					Tag Libraries, JSP 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header><h2>Development Environments</h2></header>
+				<p>
+					Rational Software Architect (RSA) 6.0 &amp; 7.0, WebSphere Studio Application Developer (WSAD) 4.x, 5.x, 
+					Eclipse 2.x, 3.x, MyEclipse 3.x – 5.x  
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header><h2>Project / Change Management / Modeling Tools </h2></header>
+				<p>
+					Microsoft Project, Rational RequisitePro, Subversion, Rational ClearCase, CVS, Rational Rose, Rational 
+					XDE, Rational ClearQuest, UML, Visio, Enterprise Architect 6.x 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header><h2>Databases</h2></header>
+				<p>
+					IBM DB2 and DB2/2, MySQL 4.x, 5.x 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header><h2>Methodologies / Architectures</h2></header>
+				<p>
+					Rational Unified Process (RUP), Test Driven Development (TDD), Information Engineering (IE) 
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+			<article>
+				<header><h2>Operating Systems</h2></header>
+				<p>
+					Windows XP, 2000, NT, 9x, 3.x, Mac OS X 10.x, OS/2, AIX, Digital, and SunOS UNIX, MVS/XA, VM 
+				</p>
+			</article>
+			<header><h1>References</h1></header>
+			<article>
+				<p> 
+					References will be provided upon establishment of mutual interest.
+				</p>
+				<time datetime="2009-11-03"></time>
+			</article>
+		</div> <!-- end content -->
+	</div> <!-- end page -->
+</div> <!-- end container -->
 <!-- analytics -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>

@@ -57,6 +57,30 @@
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
 		<br />
+		<h2>How to Get Started</h2>
+		<p>
+			While the monthly <a href="http://sibyllekuder.com/tuition.php" title="Tuition">tuition</a> is based on the number 
+			of lessons in a semester, new students can start at any time. Call or email to set up a first meeting where we can 
+			discuss your musical goals, discover a little bit about each other, and decide if this is a good fit for
+			every one. Parents, this initial session gives you and your child a chance to see how they react to me and my
+			teaching style.  The first meeting usually lasts twenty to thirty minutes and is free of charge.
+		</p>
+		<p>
+			All students must have a good instrument at home for practice. The best instrument is a good quality, well 
+			maintained grand piano. However, space restrictions and cost often make this less of an option. A good quality 
+			studio upright (approximately 44 to 48 inches tall) or a good quality console (approximately 40 to 43 inches 
+			tall) would make an excellent instrument. These instruments have strings long enough to 
+			produce a rich, full sound. Studio uprights many times have longer strings than "baby" grand pianos and 
+			consequently a better sound and playing experience.
+		</p>
+		<p>
+			It is possible to purchase a good digital piano that has weighted keys; however, money invested in a gently used
+			upright would be better spent. I am happy to accompany any student to area piano stores to help with the selection
+			of an instrument. The <a href="http://www.bluebookofpianos.com/types.htm" title="Blue Book of Pianos">Blue Book 
+			of Pianos</a> website is an excellent online soure of information about the different styles of pianos for 
+			those wanting to do some research.
+		</p>
+		<br />
 		<h2>Words of Inspiration</h2>
 		<p class="quote">
 			&quot;Inspiration is when the heart takes the lead. That is what we are practicing for every day: 
