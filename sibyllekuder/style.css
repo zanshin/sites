@@ -170,6 +170,15 @@ img {
 	border-style: dashed;
 	border-width: 0 0 1px 0;
 }
+#content h4 {
+	color: #000;
+	font-size: 11px;
+	font-style: italic;
+	cursor: default;
+	display: block;
+	margin: 10px 0 10px 0;
+	padding: 0;
+}
 #content a {
 	color: #6495ED;
 	/*color: #000;*/

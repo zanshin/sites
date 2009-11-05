@@ -45,7 +45,35 @@
 		</p>
 		<br />
 		<h2>Studio Policy</h2>
-		<p>Lesson format.</p>
+		<p>
+			The piano studio is an extension of a private residence. Please remember to respect it as such.
+		</p>
+		<p>Footwear</p>
+		<p class="indent">
+			Please remove your shoes as you enter the house. You may bring a clean pair of socks to wear in the studio.
+		</p>
+		<p>Entering</p>
+		<p class="indent">
+			At your lesson time, please knock on the door and then enter (quietly if another student is having a lesson). 
+		</p>
+		<p>Food and Drink</p>
+		<p class="indent">
+			While I request that no food be brought into the studio, I do encourage water. You are welcome to bring 
+			your own bottled water, or ask for a glass of water in the kitchen.
+		</p>
+		<p>Personal Hygiene</p>
+		<p class="indent">
+			All students must wash their hands immediately before their lesson. Instruments are very expensive and 
+			require exceptional respect. Additionally, simple cleanliness and personal hygiene on everyone’s part can 
+			help reduce disease transmission.
+		</p>
+		<p>Parking</p>
+		<p class="indent">
+			Ample parking is available along the street, or in the gravel parking lot across the street from the studio.
+			In inclement weather students may be dropped off after pulling into the driveway, but I do ask that vehicles 
+			staying for a lesson not be left on the driveway.
+		</p>
+		<p>Lesson format</p>
 		<p class="indent">
 			Young students, beginners, and most transfer students<sup>*</sup> receive two 30-minutes 
 			lessons per week, preferably Monday/Thursday or Tuesday/Friday. As with martial arts, gymnastics 
