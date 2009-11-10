@@ -26,7 +26,7 @@
 		;var i,c,x;while(eval(kode));}hivelogic_enkoder();
 		/* ]]> */
 		</script>
-		or call 913-645-4418.
+		or call 785-236-8486.
 	</p>
 </div>
 <h1>
