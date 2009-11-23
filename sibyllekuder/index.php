@@ -81,6 +81,15 @@
 			those wanting to do some research.
 		</p>
 		<br />
+		<h2>Beginner's Special</h2>
+		<p>
+			Two students may share a lesson. Each lesson includes individual time at the piano and time for 
+			partner activities.
+		</p>
+		<p>
+			Lesson Format: 30 minutes twice a week. Tuition: $55 per student per month.
+		</p>
+		<br />
 		<h2>Words of Inspiration</h2>
 		<p class="quote">
 			&quot;Inspiration is when the heart takes the lead. That is what we are practicing for every day: 

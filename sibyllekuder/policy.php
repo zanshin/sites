@@ -117,6 +117,13 @@
 			Time and scheduling permitting, there will be group and performance classes offered at no 
 			additional cost. I will try to schedule group events at everyone's convenience.
 		</p>
+		<p class="indent">
+		<strong>Beginner's Special:</strong>
+		</p>
+		<p class="indent">
+			Two students may share a lesson. Each lesson includes individual time at the piano and time for 
+			partner activities.
+		</p>
 		<p>
 			I offer year-round piano instruction for dedicated students.
 		</p>

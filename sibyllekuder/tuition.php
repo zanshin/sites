@@ -83,12 +83,8 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
-		<h2>Fall 2009</h2>
 		<p>
-			August 18 - December 19 
-		</p>
-		<p>
-			Lesson format:
+			<strong>Lesson format:</strong>
 		</p>
 		<p>
 			Young students, beginners, and most transfer students<sup>*</sup> receive two 30-minutes lessons 
@@ -127,6 +123,20 @@
 			<p>
 			Monthly tuition: $100
 			</p>
+			<p>
+			<strong>Beginner's Special:</strong>
+			</p>
+			<p>
+				Two students may share a lesson. Each lesson includes individual time at the piano and time for 
+				partner activities.
+			</p>
+			<p>
+				Lesson Format: 30 minutes twice a week. 
+			</p>
+			<p>
+			Monthly Tuition: $55 per student
+			</p>
+			<br />
 			<p>
 			Tuition is due on the first of the month. August tuition is 50% (still due on the first of the
 			month) since the studio is open only the last two weeks of the month.
