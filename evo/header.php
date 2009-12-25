@@ -23,6 +23,8 @@
     <div class="blogname"><a href="<?php echo get_settings('home'); ?>"><?php bloginfo('name');?></a></div>
     <div class="tagline">
         <?php bloginfo('description'); ?>
+    </div>
+    <div class="searchline">
         <div class="alignright">
             <form id="searchform" method="get" action="<?php echo $_SERVER['PHP_SELF']; ?>">
                 <input type="text" name="s" id="s" size="25" />

@@ -7,7 +7,8 @@ Template Name: Homepage
 <div id="content">
 
 		<div class="billboard">
-        <h3>Good place for slider or carousel, maybe?</h3>
+        <!-- <h3>Good place for slider or carousel, maybe?</h3> -->
+             <img src="images/skylineBot.png" height="230px" width="980px">
         </div>
         <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
@@ -22,16 +23,17 @@ Template Name: Homepage
         <?php else : ?>
         
         <?php endif; ?>
-
-    <div class="rssfeed">
-                <h3><a href="blog/">Latest Blog Posts</a>&raquo;</h3>
-                    <?php query_posts('showposts=5'); ?>
-                    <ul>
-                        <?php while (have_posts()) : the_post(); ?>
-                        <li><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>&raquo;</li>
-                        <?php endwhile;?>
-                    </ul>
-  		</div> 
+        <!-- removed for now
+        <div class="rssfeed">
+            <h3><a href="blog/">Latest Blog Posts</a>&raquo;</h3>
+            <?php query_posts('showposts=5'); ?>
+            <ul>
+                <?php while (have_posts()) : the_post(); ?>
+                    <li><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>&raquo;</li>
+                <?php endwhile;?>
+            </ul>
+         </div> 
+         -->
 
 </div>   
     <?php get_footer(); ?>

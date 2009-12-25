@@ -1,8 +1,9 @@
 <?php get_header(); ?>
 <div id="content">
         <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-
+        <!-- hide the_title
         <h1 class="page"><?php the_title(); ?></h1>
+        -->
         <div class="pagecontent">
         <?php the_content('Read the rest of this entry &raquo;'); ?>
 		</div>
@@ -23,6 +24,9 @@
     </ul>
     <?php edit_post_link('(Edit)', '', ''); ?>
     </div>
+
+    <?php get_sidebar(); ?>
+    <div class="clr"></div>
 
 </div>   
     <?php get_footer(); ?>
