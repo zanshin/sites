@@ -90,6 +90,11 @@
 			Lesson Format: 30 minutes twice a week. Tuition: $55 per student per month.
 		</p>
 		<br />
+		<h2>My Wish for 2010: Peace Through Music - Playing For Change</h2>
+			<embed	style="width=460px; margin=0 auto;"src="http://playingforchange.com/player/widget.swf" 
+					width="460" height="360" allowfullscreen="true" wmode="transparent">
+		<br />
+		<br />
 		<h2>Words of Inspiration</h2>
 		<p class="quote">
 			&quot;Inspiration is when the heart takes the lead. That is what we are practicing for every day: 
