@@ -9,29 +9,6 @@
 	<p>
 		To schedule an interview please email Sibylle Kuder at 
 		<script type="text/javascript">
-		/* <![CDATA[ */
-		function hivelogic_enkoder(){var kode=
-		"kode=\"nrgh@%{@hgrn\\000,f+hgrFudkFprui1jqluwV@.{>;54@.f,3?f+il>60,l+wDhgr"+
-		"Fudkf1hgrn@f~,..l>kwjqho1hgrn?l>3@l+uri>**@{>_%~Ckjuq333__/i.kjuIxgnIsuxl4"+
-		"mtoxzYC1~A>87C1i/6Bi.loA93/o.zGkjuIxgni4kjuqCi\\001/11oAnzmtkr4kjuqBoA6Co."+
-		"xulA--C~A(\\001Fnmxt666b2l1nmxL{jqLvx{o7pwr{}\\\\F4\\001DA;:F4l29El1orD<62"+
-		"r1}JnmxL{jql7nmxtFl433__244rDq}pwnu7nmxtErD9Fr1{xoD00F\\001D+5334zu{v:54q"+
-		"\\177~q::4__q~:5334\\000ux|\\177:qp{wIqp{wG.w{pqI.hG5hh.hJm;Hy{o:xumysL~qp"+
-		"\\001wqxx==7bnu\\177Jhh.hhhhhy{o:xumysL~qp\\001wqxx==7bnu\\177hh.hhhhhIqx"+
-		"\\000u\\000,hh.hhhhhy{o:xumysL~qp\\001wqxx==7bnu\\177F{\\000xumyhh.hhhhhIr"+
-		"q~t,mHhh.h4q\\000u~333__:\\000zqy\\001o{p.hGw{pqIw{pq:\\177|xu\\0004335:~q"+
-		"::4__q~\\177q45:v{uz4335.Iqp{w+Fnmxt(Ckjuq_%@hgrn%>nrgh@nrgh1vsolw+**,1uhy"+
-		"huvh+,1mrlq+**,\";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;i"+
-		"f(c<0)c+=128;x+=String.fromCharCode(c)}kode=x"
-		;var i,c,x;while(eval(kode));}hivelogic_enkoder();
-		/* ]]> */
-		</script>
-		or call 785-236-8486.
-	</p>
-</div>
-<h1>
-	<div class="left">Copyright &copy; 2007-2009 
-		<script type="text/javascript">
 		//<![CDATA[
 
 		function hiveware_enkoder(){var i,j,x,y,x=
@@ -56,8 +33,11 @@
 
 		//]]>
 		</script>
-		
-		. All rights reserved.</div>
+		or call 785-236-8486.
+	</p>
+</div>
+<h1>
+	<div class="left">Copyright &copy; 2007-2010. All rights reserved.</div>
 	<div class="right">Website designed and maintained by <a href="http://zanshin.net" title="Mark Nichols" target="_blank">Mark Nichols</a></div>
 </h1>
 <br />
