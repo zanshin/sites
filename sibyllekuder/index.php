@@ -48,6 +48,22 @@
 			has a studio located in the Northview area of Manhattan.
 		</p>
 		<br />
+		<h2>Congratulations!</h2>
+		<h3>March 9th, 2010</h3>
+		<p>
+			Congratulations ~ to Nicole, Blaise, Jessica, Kyle, Coleman, Katie, Kristee, Katherine, and Linda for 
+			participating in the Piano Concerto Competition on February 13!  There were a total of 29 contestants, 
+			covering all grade levels from 1st grade all the way through 12th.
+		</p>
+		<p>
+			Jessica placed 2nd in the 1st-3rd grade division, with Nicole and Blaise receiving Honorable Mention. 
+			Kristee placed 1st in the 7th-9th grade division, and Linda placed 1st in the 10th-12th grade division.
+		</p>
+		<p>
+			Congratulation to Taylor for receiving the highest rating (a I rating) at the state level of the High 
+			School Piano Festival in Wichita on February 20!
+		</p>
+		<br />
 		<h2>The Studio</h2>
 		<ul>
 		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
