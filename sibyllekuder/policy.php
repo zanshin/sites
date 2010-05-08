@@ -54,7 +54,7 @@
 		</p>
 		<p>Entering</p>
 		<p class="indent">
-			At your lesson time, please knock on the door and then enter (quietly if another student is having a lesson). 
+			Please knock on the door before entering. 
 		</p>
 		<p>Food and Drink</p>
 		<p class="indent">
@@ -69,9 +69,7 @@
 		</p>
 		<p>Parking</p>
 		<p class="indent">
-			Ample parking is available along the street, or in the gravel parking lot across the street from the studio.
-			In inclement weather students may be dropped off after pulling into the driveway, but I do ask that vehicles 
-			staying for a lesson not be left on the driveway.
+			Please do not use the driveway. All parking is along the street, or in the parking lot across the street only.
 		</p>
 		<p>Lesson format</p>
 		<p class="indent">
