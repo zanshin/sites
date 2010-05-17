@@ -48,11 +48,68 @@
 			has a studio located in the Northview area of Manhattan.
 		</p>
 		<br />
+		<h2>The Studio</h2>
+		<ul>
+		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
+		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
+		<li>Yamaha P85 Digital Piano, for recording to Sibelius Music Notation software</li>
+		<li>Edirol R-09HR Digital Stereo Recorder, for recording musical performances in high quality</li>
+		<li>HD Video Recorder, for creating performance and practice videos</li>
+		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
+		<li> Extensive music library, including sheet music, audio material, and reference material</li>
+		</ul>
+		<br />
+		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010</h2>
+		<p>
+			Offered are three different lesson format options:
+			<ol>
+			<li>Weekly 45-min group event plus 45-min private piano lesson (= two meetings a week)</li>
+			<li>Weekly 45-min group event plus 30-min private piano lesson (= two meetings a week)</li>
+			<li>À la carte, individual 60-min private piano lessons @ $40/lesson</li>
+			</ol>
+		</p>
+		<p>
+			Pending final confirmation, the following group events will be offered:
+		</p>
+		<div class="indent">
+		<p>
+			<strong>Pre-K - K</strong><br />
+		<p class="indent"> 
+			Early Childhood Music and Movement (circle dances, rhythm, songs, poems, piano skills, musical alphabet, beginning note reading, etc.)
+		</p>
+		<p>
+			<strong>Pre-K - 2</strong>
+		</p> 
+		<p class="indent">
+			Peter and the Wolf 3 days (probably in June)
+		</p>
+		<p>
+			<strong>Grades 1-3</strong>
+		</p> 
+		<p class="indent">
+			Stories of the Great Composers (covering any or all of the following: Tchaikovsky Discovers America; Beethoven Lives Upstairs; Mr. Bach Comes to Call; Vivaldi’s Ring of Mystery; Hallelujah Handel; and more). One week in July: beginning violin camp
+		</p>
+		<p>
+			<strong>Grades 4-6 (Level 3)</strong>
+		</p> 
+		<p class="indent">
+			Meet the Great Composers. Getting to know literature / famous pieces: Beethoven’s Wig
+		</p>
+		<p>
+			<strong>Level 4 and up</strong>
+		</p> 
+		<p class="indent">
+			Any or all of the following: harmony, chord progressions: Searching for Pachelbel. Intro to piano pedagogy. Piano Concertos. Viewing and discussion of any or all of the following videos: Bach Performance on the Piano (Angela Hewitt), No Limits (Marc-Andre Hamelin), Change of Plans (Boris Berezovsky), Memorization (Stewart Gordon), Performance Practices in Classical Piano Music / Performance Practices in Romantic Piano Music / Performance Practices in Impressionistic Piano Music (Maurice Hinson), more.
+		</p>
+		</div>
+		<p>
+			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 7 weeks of summer lessons.  Visit the <a href="http://sibyllekuder.com/tuition.php" title="Tuition" target="_blank">tuition page</a> to view summer tuition rates.
+		</p>
+		<br />
 		<h2>Congratulations!</h2>
-		<h3>March 9th, 2010</h3>
 		<p>
 			Congratulations ~ to Nicole, Blaise, Jessica, Kyle, Coleman, Katie, Kristee, Katherine, and Linda for 
-			participating in the Piano Concerto Competition on February 13!  There were a total of 29 contestants, 
+			participating in the <strong>Piano Concerto Competition on February 13</strong>!  There were a total of 29 contestants, 
 			covering all grade levels from 1st grade all the way through 12th.
 		</p>
 		<p>
@@ -60,18 +117,9 @@
 			Kristee placed 1st in the 7th-9th grade division, and Linda placed 1st in the 10th-12th grade division.
 		</p>
 		<p>
-			Congratulation to Taylor for receiving the highest rating (a I rating) at the state level of the High 
-			School Piano Festival in Wichita on February 20!
+			Congratulation to Taylor for receiving the highest rating (a I rating) at the state level of the <strong>High 
+			School Piano Festival in Wichita on February 20</strong>!
 		</p>
-		<br />
-		<h2>The Studio</h2>
-		<ul>
-		<li>Two <a href="http://piano4u.com/PreOwnedGrand.aspx" title="" target="_blank">concert grand pianos</a>: a Kawai GS-70 (7&#39;5&quot;) and a Kawai KG-6C (7&#39;4&quot)</li>
-		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
-		<li>Yamaha P85 Digital Piano, for recording</li>
-		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
-		<li> Extensive music library, including sheet music, audio material, and reference material</li>
-		</ul>
 		<br />
 		<h2>How to Get Started</h2>
 		<p>
@@ -95,15 +143,6 @@
 			of an instrument. The <a href="http://www.bluebookofpianos.com/types.htm" title="Blue Book of Pianos"target="_blank">Blue Book 
 			of Pianos</a> website is an excellent online soure of information about the different styles of pianos for 
 			those wanting to do some research.
-		</p>
-		<br />
-		<h2>Beginner's Special</h2>
-		<p>
-			Two students may share a lesson. Each lesson includes individual time at the piano and time for 
-			partner activities.
-		</p>
-		<p>
-			Lesson Format: 30 minutes twice a week. Tuition: $55 per student per month.
 		</p>
 		<br />
 		<h2>My Wish for 2010: Peace Through Music - Playing For Change</h2>

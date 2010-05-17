@@ -83,8 +83,140 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
+		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010 &nbsp;&nbsp;~&nbsp;&nbsp; 7 teaching weeks</h2>
 		<p>
-			<strong>Lesson format:</strong>
+			Offered are three different lesson format options:
+		</p>
+		<div class="indent">
+		<p>
+			1. weekly 45-min group event plus 45-min private piano lesson (= two meetings a week)
+			<br /><br />
+			2. weekly 45-min group event plus 30-min private piano lesson (= two meetings a week)
+		</p>
+		<div class="indent">
+		<p>
+			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 7 weeks of summer lessons. Here is the tuition chart:
+		</p>
+		<table width="100%" border="0" cellpadding="1px" cellspacing="1px">
+		<tr>
+			<td><strong>Summer 2010 Tuition</strong></td>
+			<td>4 wks</td>
+			<td>5 wks</td>
+			<td>6 wks</td>
+			<td>7 wks</td>
+		</tr>
+		<tr>
+			<td>group + 45-min private</td>
+			<td>$140</td>
+			<td>$160</td>
+			<td>$180</td>
+			<td>$195</td>
+		</tr>
+		<tr>
+			<td>group + 30-min private</td>
+			<td>$105</td>
+			<td>$120</td>
+			<td>$135</td>
+			<td>$145</td>
+		</tr>
+		</table>
+		</div>
+		<p>
+			3. à la carte, individual 60-min private piano lessons are available @ $40/lesson
+		</p>
+		</div>
+		<!-- removed for now... mhn 5/16/2010
+		<h2>Summer 2010 Calendar</h2>
+		<table width="50%" border="0" cellpadding="1px" cellspacing="1px">
+		<tr>
+			<td rowspan="2">week</td>
+			<td colspan="7">June / July 2010</td>
+		</tr>
+		<tr>
+			<td>M</td>
+			<td>Tu</td>
+			<td>W</td>
+			<td>Th</td>
+			<td>F</td>
+			<td>Sa</td>
+			<td>Su</td>
+		</tr>
+		<tr>
+			<td> 1</td>
+			<td> 14</td>
+			<td> 15</td>
+			<td> 16</td>
+			<td> 17</td>
+			<td> 18</td>
+			<td> 19</td>
+			<td> 20</td>
+		</tr>
+		<tr>
+			<td> 2</td>
+			<td> 21</td>
+			<td> 22</td>
+			<td> 23</td>
+			<td> 24</td>
+			<td> 25</td>
+			<td> 26</td>
+			<td> 27</td>
+		</tr>
+		<tr>
+			<td> 3</td>
+			<td> 28</td>
+			<td> 29</td>
+			<td> 30</td>
+			<td> 1</td>
+			<td> 2</td>
+			<td> 3</td>
+			<td> 4</td>
+		</tr>
+		<tr>
+			<td> 4</td>
+			<td> 5</td>
+			<td> 6</td>
+			<td> 7</td>
+			<td> 8</td>
+			<td> 9</td>
+			<td> 10</td>
+			<td> 11</td>
+		</tr>
+		<tr>
+			<td> 5</td>
+			<td> 12</td>
+			<td> 13</td>
+			<td> 14</td>
+			<td> 15</td>
+			<td> 16</td>
+			<td> 17</td>
+			<td> 18</td>
+		</tr>
+		<tr>
+			<td> 6</td>
+			<td> 19</td>
+			<td> 20</td>
+			<td> 21</td>
+			<td> 22</td>
+			<td> 23</td>
+			<td> 24</td>
+			<td> 25</td>
+		</tr>
+		<tr>
+			<td> 7</td>
+			<td> 26</td>
+			<td> 27</td>
+			<td> 28</td>
+			<td> 29</td>
+			<td> 30</td>
+			<td> 31</td>
+			<td> &nbsp;</td>
+		</tr>
+		</table>
+		-->
+		<br />
+		<br />
+		<p>
+			<strong>Fall & Spring Semester Lesson format:</strong>
 		</p>
 		<p>
 			Young students, beginners, and most transfer students<sup>*</sup> receive two 30-minutes lessons 
@@ -123,6 +255,7 @@
 			<p>
 			Monthly tuition: $100
 			</p>
+			<!-- parked mhn 5/16/2010
 			<p>
 			<strong>Beginner's Special:</strong>
 			</p>
@@ -136,6 +269,7 @@
 			<p>
 			Monthly Tuition: $55 per student
 			</p>
+			-->
 			<br />
 			<p>
 			Tuition is due on the first of the month. August tuition is 50% (still due on the first of the
