@@ -81,7 +81,7 @@
 			<strong>Pre-K - 2</strong>
 		</p> 
 		<p class="indent">
-			Peter and the Wolf 3 days (probably in June)
+			Peter and the Wolf (3 days, probably in June)
 		</p>
 		<p>
 			<strong>Grades 1-3</strong>

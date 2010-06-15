@@ -89,17 +89,18 @@
 		</p>
 		<div class="indent">
 		<p>
-			1. weekly 45-min group event plus 45-min private piano lesson (= two meetings a week)
-			<br /><br />
-			2. weekly 45-min group event plus 30-min private piano lesson (= two meetings a week)
+			<ol>
+			<li><strong>Weekly 45-minute group event plus 45-minute private piano lesson</strong> (= two meetings a week). Group events and private piano lessons can be scheduled back to back for students with the appropriate attention span.  Out-of-town students will have first priority when it comes to scheduling piano lessons around their group events.  I hope to offer the same group event twice each week to allow for more flexibility.</li>
+			<br />
+			<li><strong>Weekly 45-minute group event plus 30-minute private piano lesson</strong> (= two meetings a week).</li>
 		</p>
-		<div class="indent">
+
 		<p>
 			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 7 weeks of summer lessons. Here is the tuition chart:
 		</p>
 		<table width="100%" border="0" cellpadding="1px" cellspacing="1px">
 		<tr>
-			<td><strong>Summer 2010 Tuition</strong></td>
+			<td>Summer 2010 Tuition</td>
 			<td>4 wks</td>
 			<td>5 wks</td>
 			<td>6 wks</td>
@@ -120,10 +121,10 @@
 			<td>$145</td>
 		</tr>
 		</table>
-		</div>
-		<p>
-			3. à la carte, individual 60-min private piano lessons are available @ $40/lesson
-		</p>
+
+			<br />
+			<li>À la carte, individual 60-minute private piano lessons are available @ $40/lesson.</li>
+		</ol>
 		</div>
 		<!-- removed for now... mhn 5/16/2010
 		<h2>Summer 2010 Calendar</h2>
@@ -247,15 +248,16 @@
 			</p>
 			<p>
 			Once students are reliably independent in their practicing and play longer pieces 
-			which necessitate longer lessons, we switch to once-a-week 45 minute lessons.
+			which necessitate longer lessons, we switch to once-a-week 45-minute lessons.
 			</p>
 			<p>
 			I do not offer once-a-week 30-minute lessons.
 			</p>
+			<!-- parked mhn 5/23/2010
 			<p>
 			Monthly tuition: $100
 			</p>
-			<!-- parked mhn 5/16/2010
+			
 			<p>
 			<strong>Beginner's Special:</strong>
 			</p>
@@ -269,18 +271,38 @@
 			<p>
 			Monthly Tuition: $55 per student
 			</p>
-			-->
+			
 			<br />
 			<p>
 			Tuition is due on the first of the month. August tuition is 50% (still due on the first of the
 			month) since the studio is open only the last two weeks of the month.
 			</p>
+			-->
 			<p>
 			Individual lessons are available upon request and will be billed at $40 per hour.
 			</p>
 			<p>
 			Time and scheduling permitting, there will be group and performance classes offered at no 
 			additional cost. I will try to schedule group events at everyone's convenience.
+		</p>
+		<br />
+		<h2>Fall Semester Tuition</h2>
+		<p>
+			Fall Semester 2010 starts August 18 and is 17 weeks long. No regular lessons Tue and Wed 
+			during Thanksgiving week, make-up lessons only. No regular lessons December 20-22, make-up lessons only.
+		</p>
+		<p>
+			<strong>Tuition:</strong><br /><br />
+			34 twice-weekly 30-min piano lessons for beginning, young, and transfer students:
+			<ul>
+				<li>Semester tuition: $495 (a $185 savings compared to paying for each lesson individually).</li>
+				<li>Monthly tuition: $110 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+			</ul>
+			17 weekly 45-min piano lessons for advancing and older students:
+			<ul>
+				<li>Semester tuition: $450 ($60 savings compared to paying for each lesson individually).</li>
+				<li>Monthly tuition: $100 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+			</ul>
 		</p>
 		<br />
 		<h2>For All Students</h2>

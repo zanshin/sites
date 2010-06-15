@@ -115,21 +115,11 @@
 			Time and scheduling permitting, there will be group and performance classes offered at no 
 			additional cost. I will try to schedule group events at everyone's convenience.
 		</p>
-		<p class="indent">
-		<strong>Beginner's Special:</strong>
-		</p>
-		<p class="indent">
-			Two students may share a lesson. Each lesson includes individual time at the piano and time for 
-			partner activities.
-		</p>
 		<p>
 			I offer year-round piano instruction for dedicated students.
 		</p>
 		<p class="indent">
-			The fall and spring semesters coincide with the school calendar, and the summer
-			session is eight weeks long and starts the first full week of June. Summer tuition is
-			all-inclusive; students are guaranteed eight lessons but are encouraged to attend as
-			many lessons as they wish and scheduling permits.
+			The fall and spring semesters coincide with the school calendar, the <a href="http://sibyllekuder.com/tuition.php" title="Summer session details on Tuition page">summer session</a> begins in June.
 		</p>
 		<p class="indent">
 			Focus during the fall and spring semesters is on preparing students for the
@@ -137,7 +127,7 @@
 			Teachers Association and the Manhattan Area Music Teachers Association.
 		</p>
 		<p class="indent">
-			In the past, summer sessions have focused on topics such as The Magic Flute, Peter and
+			In the past, <a href="http://sibyllekuder.com/tuition.php" title="Summer session details on Tuition page">summer sessions</a> have focused on topics such as The Magic Flute, Peter and
 			the Wolf, Carnival of the Animals, Tchaikovsky Discovers America for younger students;
 			Film Music, The Piano Music of Frederic Chopin, The Piano Music of Johann Sebastian Bach,
 			Counterpoint, Wolfgang Amadeus Mozart, Piano Concertos, Phantom of the Opera and
