@@ -83,6 +83,7 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
+		<!-- removed 8/5.2010 mhn >
 		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010 &nbsp;&nbsp;~&nbsp;&nbsp; 7 teaching weeks</h2>
 		<p>
 			Offered are three different lesson format options:
@@ -126,6 +127,7 @@
 			<li>À la carte, individual 60-minute private piano lessons are available @ $40/lesson.</li>
 		</ol>
 		</div>
+		-->
 		<!-- removed for now... mhn 5/16/2010
 		<h2>Summer 2010 Calendar</h2>
 		<table width="50%" border="0" cellpadding="1px" cellspacing="1px">
@@ -296,12 +298,12 @@
 			34 twice-weekly 30-min piano lessons for beginning, young, and transfer students:
 			<ul>
 				<li>Semester tuition: $495 (a $185 savings compared to paying for each lesson individually).</li>
-				<li>Monthly tuition: $110 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+				<li>Payable monthly: $110 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
 			</ul>
 			17 weekly 45-min piano lessons for advancing and older students:
 			<ul>
 				<li>Semester tuition: $450 ($60 savings compared to paying for each lesson individually).</li>
-				<li>Monthly tuition: $100 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+				<li>Payable monthly: $100 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
 			</ul>
 		</p>
 		<br />

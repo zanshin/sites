@@ -33,8 +33,10 @@
 		while(x=eval(x));}hiveware_enkoder();
 
 		//]]>
-		</script>
+		</script>.
+<!-- temporarily removed. mhn 2010-07-31 >
 		or call 785-236-8486.
+-->
 	</p>
 </div>
 <h1>

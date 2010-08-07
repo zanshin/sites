@@ -59,6 +59,12 @@
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
 		<br />
+		<h2>Fall 2010 Semester</h2>
+		<p>
+			Just a reminder, Fall lessons begin August 18th, and tuition (1/2 the normal monthly rate) is due by
+			<strong>August 15, 2010</strong>.
+		</p>
+		<!-- removed 8/5/2010 mhn >
 		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010</h2>
 		<p>
 			Offered are three different lesson format options:
@@ -121,6 +127,7 @@
 			School Piano Festival in Wichita on February 20</strong>!
 		</p>
 		<br />
+		-->
 		<h2>How to Get Started</h2>
 		<p>
 			While the monthly <a href="http://sibyllekuder.com/tuition.php" title="Tuition" target="_blank">tuition</a> is based on the number 
