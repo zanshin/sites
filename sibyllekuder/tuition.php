@@ -57,7 +57,7 @@
 		<p>
 			<strong>Additionally</strong>, review and evaluation of my materials, such as books on
 			teaching, professional journals (notably <i>American Music Teacher</i>,
-			<i>Clavier</i>, <i>Keyboard Companion</i>, etcetera). I believe that
+			<i>Clavier Companion</i>, etcetera). I believe that
 			my special interest in and search for materials with relevance to
 			Special Education, Early Childhood Music and Movement, brain research
 			and music therapy, benefits all my students.
@@ -78,7 +78,7 @@
 			<li>the Music Teachers National Association</li>
 		</ul>
 		<p>
-			These memberships allow my students to participate in local and state-wide
+			These memberships allow my students to participate in local, state-wide, and national 
 			auditions and competitions.
 		</p>
 		<br />

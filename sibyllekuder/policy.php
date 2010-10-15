@@ -119,7 +119,7 @@
 			I offer year-round piano instruction for dedicated students.
 		</p>
 		<p class="indent">
-			The fall and spring semesters coincide with the school calendar, the <a href="http://sibyllekuder.com/tuition.php" title="Summer session details on Tuition page">summer session</a> begins in June.
+			The fall and spring semesters coincide with the school calendar, the summer session begins in June.
 		</p>
 		<p class="indent">
 			Focus during the fall and spring semesters is on preparing students for the
@@ -127,7 +127,7 @@
 			Teachers Association and the Manhattan Area Music Teachers Association.
 		</p>
 		<p class="indent">
-			In the past, <a href="http://sibyllekuder.com/tuition.php" title="Summer session details on Tuition page">summer sessions</a> have focused on topics such as The Magic Flute, Peter and
+			In the past, summer sessions have focused on topics such as The Magic Flute, Peter and
 			the Wolf, Carnival of the Animals, Tchaikovsky Discovers America for younger students;
 			Film Music, The Piano Music of Frederic Chopin, The Piano Music of Johann Sebastian Bach,
 			Counterpoint, Wolfgang Amadeus Mozart, Piano Concertos, Phantom of the Opera and

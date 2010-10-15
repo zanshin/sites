@@ -44,8 +44,8 @@
 			thorough mastery of all studied materials.
 		</p>
 		<p>
-			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994, and 
-			has a studio located in the Northview area of Manhattan.
+			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994 and 
+			will soon be relocating to Lee Mill Heights in Manhattan. 
 		</p>
 		<br />
 		<h2>The Studio</h2>
@@ -59,11 +59,13 @@
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
 		<br />
+		<!--  removed 9.12.2001 mhn
 		<h2>Fall 2010 Semester</h2>
 		<p>
 			Just a reminder, Fall lessons begin August 18th, and tuition (1/2 the normal monthly rate) is due by
 			<strong>August 15, 2010</strong>.
 		</p>
+		-->
 		<!-- removed 8/5/2010 mhn >
 		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010</h2>
 		<p>
