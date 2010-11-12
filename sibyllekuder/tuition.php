@@ -306,6 +306,9 @@
 				<li>Payable monthly: $100 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
 			</ul>
 		</p>
+		<p>
+			Monthly tuition is due the first of each month.
+		</p>
 		<br />
 		<h2>For All Students</h2>
 		<p>

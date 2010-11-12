@@ -33,11 +33,17 @@
 			<img src="img/pianoStudio.jpg" height="375" width="500" alt="The studio."/>
 			<p>The studio at Elfenbein Klaviermusik. &copy; 2009 Sibylle Kuder</p>
 		</div>
+		<br />
 		<p>
-			Elfenbein Klaviermusik offers thorough and carefully guided instruction in piano
+			Elfenbein Klaviermusik offers piano lessons to students who habitually show a high level of 
+			 enthusiasm, motivation and commitment. 
+		</p>
+		<p>
+			Lessons offer thorough and carefully guided instruction in piano
 			literature, technique, ear training (audiation), memorization, and theory.  The
-			piano curriculum prepares students for festivals, competitions, and the Music
-			Progressions Auditions through the Kansas Music Teachers Association.
+			piano curriculum prepares students for festivals, competitions, including the MAMTA 
+			Piano Concerto Competition, and the Music Progressions Auditions through the Kansas Music Teachers 
+			Association.
 		</p>
 		<p>
 			Particular attention is given to a natural and injury-free technique and to
