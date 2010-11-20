@@ -50,8 +50,7 @@
 			thorough mastery of all studied materials.
 		</p>
 		<p>
-			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994 and 
-			will soon be relocating to Lee Mill Heights in Manhattan. 
+			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994. 
 		</p>
 		<br />
 		<h2>The Studio</h2>
