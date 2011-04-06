@@ -48,28 +48,33 @@
 		<p>
 			The piano studio is an extension of a private residence. Please remember to respect it as such.
 		</p>
+		<p>Arriving for your lesson</p>
+		<p class="indent">
+			Please park in front of the third garage bay (the single door) or along the street. Please do not
+			block the first bay, even temporarily.
+		</p>
+		<p  class="indent">
+			Please be aware that I may not be available to open the door if you arrive more than 5 minutes 
+			before your lesson time.
+		</p>
 		<p>Footwear</p>
 		<p class="indent">
-			Please remove your shoes as you enter the house. You may bring a clean pair of socks to wear in the studio.
-		</p>
-		<p>Entering</p>
-		<p class="indent">
-			Please knock on the door before entering. 
+			Please remove your shoes as you enter the house. You may bring a clean pair of socks to wear in 
+			the studio.
 		</p>
 		<p>Food and Drink</p>
 		<p class="indent">
-			While I request that no food be brought into the studio, I do encourage water. You are welcome to bring 
-			your own bottled water, or ask for a glass of water in the kitchen.
+			Please do not bring food into the studio. You are welcome to bring your own bottled water.
 		</p>
 		<p>Personal Hygiene</p>
 		<p class="indent">
 			All students must wash their hands immediately before their lesson. Instruments are very expensive and 
-			require exceptional respect. Additionally, simple cleanliness and personal hygiene on everyone’s part can 
-			help reduce disease transmission.
+			require exceptional respect. Additionally, simple cleanliness and personal hygiene on everyone’s 
+			part can help reduce disease transmission.
 		</p>
-		<p>Parking</p>
 		<p class="indent">
-			Please do not use the driveway. All parking is along the street, or in the parking lot across the street only.
+			All guests are asked to sit down to use the toilet - it’s the house rule here.  If boys are not 
+			willing to sit down to pee, I ask that you use your bathroom at home before you come for your lesson. 
 		</p>
 		<p>Lesson format</p>
 		<p class="indent">

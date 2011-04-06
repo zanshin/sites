@@ -40,7 +40,7 @@
 	</p>
 </div>
 <h1>
-	<div class="left">Copyright &copy; 2007-2010. All rights reserved.</div>
+	<div class="left">Copyright &copy; 2007-2011. All rights reserved.</div>
 	<div class="right">Website designed and maintained by <a href="http://zanshin.net" title="Mark Nichols" target="_blank">Mark Nichols</a></div>
 </h1>
 <br />

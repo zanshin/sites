@@ -288,22 +288,28 @@
 			additional cost. I will try to schedule group events at everyone's convenience.
 		</p>
 		<br />
-		<h2>Fall Semester Tuition</h2>
+		<h2>Spring Semester Tuition</h2>
 		<p>
-			Fall Semester 2010 starts August 18 and is 17 weeks long. No regular lessons Tue and Wed 
-			during Thanksgiving week, make-up lessons only. No regular lessons December 20-22, make-up lessons only.
+			The 18 lesson weeks of the 2011 Spring Semester start January 3 and end May 27, 2011. No regular 
+			lessons during the week after the Piano Concerto Competition which is February 12, make-up lessons
+			only.  No lessons during Spring Break (March 21 - 25).  No regular lessons the week of May 23, 
+			make-up lessons only.
 		</p>
 		<p>
-			<strong>Tuition:</strong><br /><br />
-			34 twice-weekly 30-min piano lessons for beginning, young, and transfer students:
+			Tuition:
+		</p>
+		<p>
+			36 twice-weekly 30-min piano lessons for beginning, young, and transfer students:
 			<ul>
-				<li>Semester tuition: $495 (a $185 savings compared to paying for each lesson individually).</li>
-				<li>Payable monthly: $110 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+				<li>Semester tuition: $600 (a $120 savings compared to paying for each lesson individually).</li>
+				<li>Payable monthly: $120</li>
 			</ul>
-			17 weekly 45-min piano lessons for advancing and older students:
+		</p>
+		<p>
+			18 weekly 45-min piano lessons for advancing and older students:
 			<ul>
-				<li>Semester tuition: $450 ($60 savings compared to paying for each lesson individually).</li>
-				<li>Payable monthly: $100 (semester tuition divided by 4.5 as August is 1/2 month tuition)</li>
+				<li>Semester tuition: $500 ($40 savings compared to paying for each lesson individually).</li>
+				<li>Payable monthly: $100</li>
 			</ul>
 		</p>
 		<p>
