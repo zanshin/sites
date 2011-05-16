@@ -60,10 +60,52 @@
 		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
 		<li>Yamaha P85 Digital Piano, for recording to Sibelius Music Notation software</li>
 		<li>Edirol R-09HR Digital Stereo Recorder, for recording musical performances in high quality</li>
-		<li>HD Video Recorder, for creating performance and practice videos</li>
+		<li><a href="http://www.samsontech.com/products/productpage.cfm?prodID=2020" title"Zoom Q3" target="_blank">Zoom Q3</a> Video Recorder, for creating performance and practice videos</li>
 		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
+		<br />
+		<h2>Summer 2011  Piano & Music Program</h2>
+		<p>June 6  -  July 30, 2011    ~    8 teaching weeks</p>
+		<p>Two options:</p>
+		<ul>
+			<li>
+			<p>
+				Regular Summer Piano:  Scale skills and repertoire during the weekly 45-minute lesson plus 
+				different group sessions which cover a wide variety of topics, such as ear training, theory, history, 
+				memorization, sight-playing, and more. 
+				<ul>
+					<li>Elementary history classes will continue last summer’s “Stories of the Great Composers” 
+					and “Meet the Great Composers” series, elementary theory classes will use Keith 
+					Snell’s “Fundamentals of Piano Theory”. </li>
+					<li>More advanced history and theory classes will study Johann Sebastian Bach with special focus 
+					on the Minuets (including “compose your own minuet!”), Inventions, The Well-Tempered Clavier, and 
+					the Concertos (piano and other instruments).</li>
+				</ul>
+			</p>
+			</li>
+			<li>
+			<p>
+				Piano “lite” is for students who are even busier in the summer than during the school year or those 
+				who want to take it a bit easier.  We cover scale skills and repertoire, a bit of theory and ear 
+				training, probably some computer work, too, all in a weekly 45-minute lesson.  There is the option to 
+				attend a group event instead of a piano lesson once in a while. 
+			</p>
+			</li>
+		</ul>
+		<p>
+			All summer piano lessons are 45 minutes long.  Group events vary in length, depending on topic and 
+			age/level of students. 
+		</p>
+		<p>
+			My schedule is very flexible in the summer - I am looking forward to being able to work around 
+			swimming lessons, tennis, summer camp, vacation bible school, etc., changing lesson times every 
+			week if necessary!
+		</p>
+		<p>
+			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 8 
+			weeks of summer lessons.
+		</p>
 		<br />
 		<h2>How to Get Started</h2>
 		<p>

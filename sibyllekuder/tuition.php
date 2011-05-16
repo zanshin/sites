@@ -83,6 +83,74 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
+		<h2>Summer 2011  Piano & Music Program</h2>
+		<p>June 6  -  July 30, 2011    ~    8 teaching weeks</p>
+		<p>Two options:
+		<ul>
+			<li>
+				Regular Summer Piano:  Scale skills and repertoire during the weekly 45-minute lesson plus 
+				different group sessions which cover a wide variety of topics, such as ear training, theory, 
+				history, memorization, sight-playing, and more. 
+				<ul>
+					<li>
+						Elementary history classes will continue last summer’s “Stories of the Great Composers” 
+						and “Meet the Great Composers” series, elementary theory classes will use Keith 
+						Snell’s “Fundamentals of Piano Theory”. </li>
+					<li>
+						More advanced history and theory classes will study Johann Sebastian Bach with special 
+						focus on the Minuets (including “compose your own minuet!”), Inventions, The 
+						Well-Tempered Clavier, and the Concertos (piano and other instruments).</li>
+				</ul>
+			</li>
+			<li>
+				Piano “lite” is for students who are even busier in the summer than during the school year or 
+				those who want to take it a bit easier.  We cover scale skills and repertoire, a bit of theory 
+				and ear training, probably some computer work, too, all in a weekly 45-minute lesson.  There is 
+				the option to attend a group event instead of a piano lesson once in a while. </li>
+		</ul>
+		</p>
+		<p>
+			All summer piano lessons are 45 minutes long.  Group events vary in length, depending on topic and 
+			age/level of students. 
+		</p>
+		<p>
+			My schedule is very flexible in the summer - I am looking forward to being able to work around 
+			swimming lessons, tennis, summer camp, vacation bible school, etc., changing lesson times every 
+			week if necessary!
+		</p>
+		<p>
+			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 8 weeks 
+			of summer lessons.  Here is the tuition chart:
+			<table width="100%" border="0" cellpadding="1px" cellspacing="1px">
+				<tr>
+					<th>Summer 2011 Tuition</th>
+					<th>4 weeks</th>
+					<th>5 weeks</th>
+					<th>6 weeks</th>
+					<th>7 weeks</th>
+					<th>8 weeks</th>
+				</tr>
+				</th>
+				<tr>
+					<td>Regular Summer Piano: <br />weekly 45-min lessons + group events</td>
+					<td>$150</td>
+					<td>$180</td>
+					<td>$200</td>
+					<td>$220</td>
+					<td>$240</td>
+				</tr>
+				<tr>
+					<td>Piano “lite”: <br />weekly 45-min lessons</td>
+					<td>$120</td>
+					<td>$150</td>
+					<td>$170</td>
+					<td>$185</td>
+					<td>$200</td>
+				</tr>
+			</table>
+		</p>
+		
+		
 		<!-- removed 8/5.2010 mhn >
 		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010 &nbsp;&nbsp;~&nbsp;&nbsp; 7 teaching weeks</h2>
 		<p>
@@ -124,7 +192,7 @@
 		</table>
 
 			<br />
-			<li>À la carte, individual 60-minute private piano lessons are available @ $40/lesson.</li>
+			<li>À la carte, individual 60-minute private piano lessons are available @ $45/lesson.</li>
 		</ol>
 		</div>
 		-->
@@ -281,7 +349,7 @@
 			</p>
 			-->
 			<p>
-			Individual lessons are available upon request and will be billed at $40 per hour.
+			Individual lessons are available upon request and will be billed at $45 per hour.
 			</p>
 			<p>
 			Time and scheduling permitting, there will be group and performance classes offered at no 
